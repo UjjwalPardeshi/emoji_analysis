@@ -1,0 +1,2751 @@
+description,score,emoji
+grinning face,1,😀
+smiling face with open mouth,1,😃
+winking face,1,😉
+robot face,0.5,🤖
+father christmas,0.75,🎅🏻
+father christmas,0.75,🎅🏼
+father christmas,0.75,🎅🏽
+father christmas,0.75,🎅🏾
+father christmas,0.75,🎅🏿
+mother christmas,0.75,🤶🏻
+mother christmas,0.75,🤶🏼
+mother christmas,0.75,🤶🏽
+mother christmas,0.75,🤶🏾
+mother christmas,0.75,🤶🏿
+smiling cat face with open mouth,1,😺
+mother christmas,0.75,🤶
+superhero,1,🦸🏻‍♀️
+superhero,1,🦸🏼‍♀️
+superhero,1,🦸🏽‍♀️
+superhero,1,🦸🏾‍♀️
+superhero,1,🦸🏿‍♀️
+superhero,1,🦸‍♀️
+man superhero,1,🦸‍♂️
+man superhero light skin tone,1,🦸🏻‍♂️
+man superhero medium light skin tone,1,🦸🏼‍♂️
+grinning cat face with smiling eyes,1,😸
+man superhero medium skin tone,1,🦸🏽‍♂️
+man superhero dark skin tone,1,🦸🏾‍♂️
+man superhero medium dark skin tone,1,🦸🏿‍♂️
+woman superhero,1,🦸‍♀️
+woman superhero light skin tone,1,🦸🏻‍♀️
+woman superhero medium light skin tone,1,🦸🏼‍♀️
+woman superhero medium skin tone,1,🦸🏽‍♀️
+woman superhero dark skin tone,1,🦸🏾‍♀️
+woman superhero medium dark skin tone,1,🦸🏿‍♀️
+supervillain,0,🦹
+cat face with tears of joy,1,😹
+supervillain,0.25,🦹🏻
+supervillain,0.25,🦹🏼
+supervillain,0.25,🦹🏽
+supervillain,0.25,🦹🏾
+supervillain,0.25,🦹🏿
+man supervillain,0.25,🦹🏻‍♂️
+man supervillain light skin tone,0.25,🦹🏼‍♂️
+man supervillain medium light skin tone,0.25,🦹🏽‍♂️
+man supervillain medium skin tone,0.25,🦹🏾‍♂️
+man supervillain medium dark skin tone,0.25,🦹🏾‍♂️
+smiling cat face with heart shaped eyes,1,😻
+man supervillain dark skin tone,0.25,🦹🏿‍♂️
+woman supervillain,0.25,🦹‍♀️
+woman supervillain light skin tone,0.25,🦹🏻‍♀️
+woman supervillain medium light skin tone,0.25,🦹🏼‍♀️
+woman supervillain medium skin tone,0.25,🦹🏽‍♀️
+woman supervillain medium dark skin tone,0.25,🦹🏾‍♀️
+woman supervillain dark skin tone,0.25,🦹🏿‍♀️
+mage,0.5,🧙
+mage,0.5,🧙🏻
+mage,0.5,🧙🏼
+cat face with wry smile,0.5,😼
+mage,0.5,🧙🏽
+mage,0.5,🧙🏾
+mage,0.5,🧙🏿
+man mage,0.5,🧙‍♂️
+man mage light skin tone,0.5,🧙🏻‍♂️
+man mage medium light skin tone,0.5,🧙🏼‍♂️
+man mage medium skin tone,0.5,🧙🏽‍♂️
+man mage medium dark skin tone,0.5,🧙🏾‍♂️
+man mage dark skin tone,0.5,🧙🏿‍♂️
+woman mage,0.5,🧙‍♀️
+kissing cat face with closed eyes,1,😽
+woman mage light skin tone,0.5,🧙🏻‍♀️
+woman mage medium light skin tone,0.5,🧙🏼‍♀️
+woman mage medium skin tone,0.5,🧙🏽‍♀️
+woman mage medium dark skin tone,0.5,🧙🏾‍♀️
+woman mage dark skin tone,0.5,🧙🏿‍♀️
+fairy,0.75,🧚‍♀️
+fairy,0.75,🧚🏻‍♀️
+fairy,0.75,🧚🏼‍♀️
+fairy,0.75,🧚🏽‍♀️
+fairy,0.75,🧚🏾‍♀️
+weary cat face,0.25,🙀
+fairy,0.75,🧚🏿‍♀️
+man fairy,0.75,🧚‍♂️
+man fairy light skin tone,0.75,🧚🏻‍♂️
+man fairy medium light skin tone,0.75,🧚🏼‍♂️
+man fairy medium skin tone,0.75,🧚🏽‍♂️
+man fairy medium dark skin tone,0.75,🧚🏾‍♂️
+man fairy dark skin tone,0.75,🧚🏿‍♂️
+woman fairy,0.75,🧚‍♀️ 
+woman fairy light skin tone,0.75,🧚🏻‍♀️ 
+woman fairy medium light skin tone,0.75,🧚🏼‍♀️ 
+crying cat face,0,😿 
+woman fairy medium skin tone,0.75,🧚🏽‍♀️
+woman fairy medium dark skin tone,0.75,🧚🏾‍♀️ 
+woman fairy dark skin tone,0.75,🧚🏿‍♀️ 
+vampire,0.25,🧛 
+vampire,0.25,🧛🏻 
+vampire,0.25,🧛🏼 
+vampire,0.25,🧛🏽 
+vampire,0.25,🧛🏾 
+vampire,0.25,🧛🏿 
+man vampire,0.25,🧛‍♂️ 
+pouting cat face,0,😾
+man vampire light skin tone,0.25,🧛🏻‍♂️
+man vampire medium light skin tone,0.25,🧛🏼‍♂️
+man vampire medium skin tone,0.25,🧛🏽‍♂️
+man vampire medium dark skin tone,0.25,🧛🏾‍♂️
+man vampire dark skin tone,0.25,🧛🏿‍♂️
+woman vampire,0.25,🧛‍♀️
+woman vampire light skin tone,0.25,🧛🏻‍♀️
+woman vampire medium light skin tone,0.25,🧛🏼‍♀️
+woman vampire medium skin tone,0.25,🧛🏽‍♀️
+woman vampire medium dark skin tone,0.25,🧛🏾‍♀️
+smiling face with smiling eyes,1,😌
+see no evil monkey,0.75,🙈
+woman vampire dark skin tone,0.25,🧛🏿‍♀️
+merperson,0.75,🧜
+merperson,0.75,🧜🏻
+merperson,0.75,🧜🏼
+merperson,0.75,🧜🏽
+merperson,0.75,🧜🏾
+merperson,0.75,🧜🏿
+merman,0.75,🧜‍♂️
+merman light skin tone,0.75,🧜🏻‍♂️
+merman medium light skin tone,0.75,🧜🏼‍♂️
+hear no evil monkey,0.75,🙉
+merman medium skin tone,0.75,🧜🏽‍♂️
+merman medium dark skin tone,0.75,🧜🏾‍♂️
+merman dark skin tone,0.75,🧜🏿‍♂️
+merwoman,0.75,🧜‍♀️
+merwoman light skin tone,0.75,🧜🏻‍♀️
+merwoman medium light skin tone,0.75,🧜🏼‍♀️
+merwoman medium skin tone,0.75,🧜🏽‍♀️
+merwoman medium dark skin tone,0.75,🧜🏾‍♀️
+merwoman dark skin tone,0.75,🧜🏿‍♀️
+elf,0.75,🧝
+speak no evil monkey,0.5,🙊
+elf,0.75,🧝🏻
+elf,0.75,🧝🏼
+elf,0.75,🧝🏽
+elf,0.75,🧝🏾
+elf,0.75,🧝🏿
+man elf,0.75,🧝‍♂️
+man elf light skin tone,0.75,🧝🏻‍♂️
+man elf medium light skin tone,0.75,🧝🏼‍♂️
+man elf medium skin tone,0.75,🧝🏽‍♂️
+man elf medium dark skin tone,0.75,🧝🏾‍♂️
+kiss mark,1,💋
+man elf dark skin tone,0.75,🧝🏿‍♂️
+woman elf,0.75,🧝‍♀️
+woman elf light skin tone,0.75,🧝🏻‍♀️
+woman elf medium light skin tone,0.75,🧝🏼‍♀️
+woman elf medium skin tone,0.75,🧝🏽‍♀️
+woman elf medium dark skin tone,0.75,🧝🏾‍♀️
+woman elf dark skin tone,0.75,🧝🏿‍♀️
+genie,0.75,🧞
+man genie,0.75,🧞‍♂️
+woman genie,0.75,🧞‍♀️
+love letter,1,💌
+zombie,0,🧟
+man zombie,0,🧟‍♂️
+woman zombie,0,🧟‍♀️
+face massage,0.75,💆
+face massage,0.75,💆🏻
+face massage,0.75,💆🏼
+face massage,0.75,💆🏽
+face massage,0.75,💆🏾
+face massage,0.75,💆🏿
+man getting face massage,0.75,💆‍♂️
+heart with arrow,1,💘
+man getting face massage type 1 2,0.75,💆🏻‍♂️
+man getting face massage type 3,0.75,💆🏼‍♂️
+man getting face massage type 4,0.75,💆🏽‍♂️
+man getting face massage type 5,0.75,💆🏾‍♂️
+man getting face massage type 6,0.75,💆🏿‍♂️
+woman getting face massage,0.75,💆‍♀️
+woman getting face massage type 1 2,0.75,💆🏻‍♀️
+woman getting face massage type 3,0.75,💆🏼‍♀️
+woman getting face massage type 4,0.75,💆🏽‍♀️
+woman getting face massage type 5,0.75,💆🏾‍♀️
+heart with ribbon,1,🎀
+woman getting face massage type 6,0.75,💆🏿‍♀️
+haircut,0.75,💇
+haircut,0.75,💇🏻
+haircut,0.75,💇🏼
+haircut,0.75,💇🏽
+haircut,0.75,💇🏾
+haircut,0.75,💇🏿
+man getting haircut,0.75,💇‍♂️
+man getting haircut type 1 2,0.75,💇🏻‍♂️
+man getting haircut type 3,0.75,💇🏼‍♂️
+sparkling heart,1,💖
+man getting haircut type 4,0.75,💇🏽‍♂️
+man getting haircut type 5,0.75,💇🏾‍♂️
+man getting haircut type 6,0.75,💇🏿‍♂️
+woman getting haircut,0.75,💇‍♀️
+woman getting haircut type 1 2,0.75,💇🏻‍♀️
+woman getting haircut type 3,0.75,💇🏼‍♀️
+woman getting haircut type 4,0.75,💇🏽‍♀️
+woman getting haircut type 5,0.75,💇🏾‍♀️
+woman getting haircut type 6,0.75,💇🏿‍♀️
+pedestrian,0.5,🚶‍♂️
+growing heart,1,💗
+pedestrian,0.5,🚶🏻‍♂️
+pedestrian,0.5,🚶🏼‍♂️
+pedestrian,0.5,🚶🏽‍♂️
+pedestrian,0.5,🚶🏾‍♂️
+pedestrian,0.5,🚶🏿‍♂️
+man walking,0.5,🚶‍♂️
+man walking type 1 2,0.5,🚶🏻‍♂️
+man walking type 3,0.5,🚶🏼‍♂️
+man walking type 4,0.5,🚶🏽‍♂️
+man walking type 5,0.5,🚶🏾‍♂️
+beating heart,1,💓
+man walking type 6,0.5,🚶🏿‍♂️
+woman walking,0.5,🚶‍♀️
+woman walking type 1 2,0.5,🚶🏻‍♀️
+woman walking type 3,0.5,🚶🏼‍♀️
+woman walking type 4,0.5,🚶🏽‍♀️
+woman walking type 5,0.5,🚶🏾‍♀️
+woman walking type 6,0.5,🚶🏿‍♀️
+runner,0.5,🏃
+runner,0.5,🏃🏻
+runner,0.5,🏃🏼
+smiling face with halo,1,😇
+revolving hearts,1,💞
+runner,0.5,🏃🏽
+runner,0.5,🏃🏾
+runner,0.5,🏃🏿
+man running,0.5,🏃‍♂️
+man running type 1 2,0.5,🏃🏻‍♂️
+man running type 3,0.5,🏃🏼‍♂️
+man running type 4,0.5,🏃🏽‍♂️
+man running type 5,0.5,🏃🏾‍♂️
+man running type 6,0.5,🏃🏿‍♂️
+woman running,0.5,🏃‍♀️
+two hearts,1,💕
+woman running type 1 2,0.5,🏃🏻‍♀️
+woman running type 3,0.5,🏃🏼‍♀️
+woman running type 4,0.5,🏃🏽‍♀️
+woman running type 5,0.5,🏃🏾‍♀️
+woman running type 6,0.5,🏃🏿‍♀️
+dancer,0.75,💃
+dancer,0.75,💃🏻
+dancer,0.75,💃🏼
+dancer,0.75,💃🏽
+dancer,0.75,💃🏾
+heart decoration,1,💟
+dancer,0.75,💃🏿
+man dancing,0.75,🕺
+man dancing,0.75,🕺🏻
+man dancing,0.75,🕺🏼
+man dancing,0.75,🕺🏽
+man dancing,0.75,🕺🏾
+man dancing,0.75,🕺🏿
+man in business suit levitating,0.5,🕴️
+man in business suit levitating,0.5,🕴🏻
+man in business suit levitating,0.5,🕴🏼
+heavy heart exclamation mark ornament,1,❣️
+man in business suit levitating,0.5,🕴🏽
+man in business suit levitating,0.5,🕴🏾
+man in business suit levitating,0.5,🕴🏿
+woman with bunny ears,1,👯‍♀️
+men with bunny ears partying,1,👯‍♂️
+women with bunny ears partying,1,👯
+person in steamy room,0.75,🧖
+person in steamy room,0.75,🧖🏻
+person in steamy room,0.75,🧖🏼
+person in steamy room,0.75,🧖🏽
+broken heart,0,💔
+person in steamy room,0.75,🧖🏾
+person in steamy room,0.75,🧖🏿
+man in steamy room,0.75,🧖‍♂️
+man in steamy room light skin tone,0.75,🧖🏻‍♂️
+man in steamy room medium light skin tone,0.75,🧖🏼‍♂️
+man in steamy room medium skin tone,0.75,🧖🏽‍♂️
+man in steamy room medium dark skin tone,0.75,🧖🏾‍♂️
+man in steamy room dark skin tone,0.75,🧖🏿‍♂️
+woman in steamy room,0.75,🧖‍♀️
+woman in steamy room light skin tone,0.75,🧖🏻‍♀️
+heavy black heart,1,🖤
+woman in steamy room medium light skin tone,0.75,🧖🏼‍♀️
+woman in steamy room medium skin tone,0.75,🧖🏽‍♀️
+woman in steamy room medium dark skin tone,0.75,🧖🏾‍♀️
+woman in steamy room dark skin tone,0.75,🧖🏿‍♀️
+person climbing,0.75,🧗
+person climbing,0.75,🧗🏻
+person climbing,0.75,🧗🏼
+person climbing,0.75,🧗🏽
+person climbing,0.75,🧗🏾
+person climbing,0.75,🧗🏿
+orange heart,1,🧡
+man climbing,0.75,🧗‍♂️
+man climbing light skin tone,0.75,🧗🏻‍♂️
+man climbing medium light skin tone,0.75,🧗🏼‍♂️
+man climbing medium skin tone,0.75,🧗🏽‍♂️
+man climbing medium dark skin tone,0.75,🧗🏾‍♂️
+man climbing dark skin tone,0.75,🧗🏿‍♂️
+woman climbing,0.75,🧗‍♀️
+woman climbing light skin tone,0.75,🧗🏻‍♀️
+woman climbing medium light skin tone,0.75,🧗🏼‍♀️
+woman climbing medium skin tone,0.75,🧗🏽‍♀️
+yellow heart,1,💛
+woman climbing medium dark skin tone,0.75,🧗🏾‍♀️
+woman climbing dark skin tone,0.75,🧗🏿‍♀️
+fencer,0.75,🤺
+horse racing,0.75,🏇
+horse racing,0.75,🏇🏻
+horse racing,0.75,🏇🏼
+horse racing,0.75,🏇🏽
+horse racing,0.75,🏇🏾
+horse racing,0.75,🏇🏿
+skier,0.75,⛷️
+green heart,1,💚
+snowboarder,0.75,🏂
+golfer,0.75,🏌️
+golfer,0.75,🏌🏻
+golfer,0.75,🏌🏼
+golfer,0.75,🏌🏽
+golfer,0.75,🏌🏾
+golfer,0.75,🏌🏿
+man golfing,0.75,🏌️‍♂️
+man golfing type 1 2,0.75,🏌🏻‍♂️
+man golfing type 3,0.75,🏌🏼‍♂️
+blue heart,1,💙
+man golfing type 4,0.75,🏌🏽‍♂️
+man golfing type 5,0.75,🏌🏾‍♂️
+man golfing type 6,0.75,🏌🏿‍♂️
+woman golfing,0.75,🏌️‍♀️
+woman golfing type 1 2,0.75,🏌🏻‍♀️
+woman golfing type 3,0.75,🏌🏼‍♀️
+woman golfing type 4,0.75,🏌🏽‍♀️
+woman golfing type 5,0.75,🏌🏾‍♀️
+woman golfing type 6,0.75,🏌🏿‍♀️
+surfer,0.75,🏄
+smiling face with smiling eyes and three hearts,1,🥰
+purple heart,1,💜
+surfer,0.75,🏄🏻
+surfer,0.75,🏄🏼
+surfer,0.75,🏄🏽
+surfer,0.75,🏄🏾
+surfer,0.75,🏄🏿
+man surfing,0.75,🏄‍♂️
+man surfing type 1 2,0.75,🏄🏻‍♂️
+man surfing type 3,0.75,🏄🏼‍♂️
+man surfing type 4,0.75,🏄🏽‍♂️
+man surfing type 5,0.75,🏄🏾‍♂️
+black heart,0,🖤
+man surfing type 6,0.75,🏄🏿‍♂️
+woman surfing,0.75,🏄‍♀️
+woman surfing type 1 2,0.75,🏄🏻‍♀️
+woman surfing type 3,0.75,🏄🏼‍♀️
+woman surfing type 4,0.75,🏄🏽‍♀️
+woman surfing type 5,0.75,🏄🏾‍♀️
+woman surfing type 6,0.75,🏄🏿‍♀️
+rowboat,0.75,🚣
+rowboat,0.75,🚣🏻
+rowboat,0.75,🚣🏼
+hundred points symbol,1,💯
+rowboat,0.75,🚣🏽
+rowboat,0.75,🚣🏾
+rowboat,0.75,🚣🏿
+man rowing boat,0.75,🚣‍♂️
+man rowing boat type 1 2,0.75,🚣🏻‍♂️
+man rowing boat type 3,0.75,🚣🏼‍♂️
+man rowing boat type 4,0.75,🚣🏽‍♂️
+man rowing boat type 5,0.75,🚣🏾‍♂️
+man rowing boat type 6,0.75,🚣🏿‍♂️
+woman rowing boat,0.75,🚣‍♀️
+anger symbol,0,💢
+woman rowing boat type 1 2,0.75,🚣🏻‍♀️
+woman rowing boat type 3,0.75,🚣🏼‍♀️
+woman rowing boat type 4,0.75,🚣🏽‍♀️
+woman rowing boat type 5,0.75,🚣🏾‍♀️
+woman rowing boat type 6,0.75,🚣🏿‍♀️
+swimmer,0.75,🏊
+swimmer,0.75,🏊🏻
+swimmer,0.75,🏊🏼
+swimmer,0.75,🏊🏽
+swimmer,0.75,🏊🏾
+collision symbol,0.25,💥
+swimmer,0.75,🏊🏿
+man swimming,0.75,🏊‍♂️
+man swimming type 1 2,0.75,🏊🏻‍♂️
+man swimming type 3,0.75,🏊🏼‍♂️
+man swimming type 4,0.75,🏊🏽‍♂️
+man swimming type 5,0.75,🏊🏾‍♂️
+man swimming type 6,0.75,🏊🏿‍♂️
+woman swimming,0.75,🏊‍♀️
+woman swimming type 1 2,0.75,🏊🏻‍♀️
+woman swimming type 3,0.75,🏊🏼‍♀️
+dizzy symbol,1,💫
+woman swimming type 4,0.75,🏊🏽‍♀️
+woman swimming type 5,0.75,🏊🏾‍♀️
+woman swimming type 6,0.75,🏊🏿‍♀️
+person with ball,0.75,⛹️
+person with ball,0.75,⛹🏻
+person with ball,0.75,⛹🏼
+person with ball,0.75,⛹🏽
+person with ball,0.75,⛹🏾
+person with ball,0.75,⛹🏿
+man with ball,0.75,⛹️‍♂️
+splashing sweat symbol,0.5,💦
+man with ball type 1 2,0.75,⛹🏻‍♂️
+man with ball type 3,0.75,⛹🏼‍♂️
+man with ball type 4,0.75,⛹🏽‍♂️
+man with ball type 5,0.75,⛹🏾‍♂️
+man with ball type 6,0.75,⛹🏿‍♂️
+woman with ball,0.75,⛹️‍♀️
+woman with ball type 1 2,0.75,⛹🏻‍♀️
+woman with ball type 3,0.75,⛹🏼‍♀️
+woman with ball type 4,0.75,⛹🏽‍♀️
+woman with ball type 6,0.75,💨
+dash symbol,0.25,⛹🏾‍♀️
+woman with ball type 5,0.75,⛹🏿‍♀️
+weight lifter,0.75,🏋️
+weight lifter,0.75,🏋🏻
+weight lifter,0.75,🏋🏼
+weight lifter,0.75,🏋🏽
+weight lifter,0.75,🏋🏾
+weight lifter,0.75,🏋🏿
+man weight lifting,0.75,🏋️‍♂️
+man weight lifting type 1 2,0.75,🏋🏻‍♂️
+man weight lifting type 3,0.75,🏋🏼‍♂️
+hole,0.5,🕳️
+man weight lifting type 4,0.75,🏋🏽‍♂️
+man weight lifting type 5,0.75,🏋🏾‍♂️
+man weight lifting type 6,0.75,🏋🏿‍♂️
+woman weight lifting,0.75,🏋️‍♀️
+woman weight lifting type 1 2,0.75,🏋🏻‍♀️
+woman weight lifting type 3,0.75,🏋🏼‍♀️
+woman weight lifting type 4,0.75,🏋🏽‍♀️
+woman weight lifting type 5,0.75,🏋🏾‍♀️
+woman weight lifting type 6,0.75,🏋🏿‍♀️
+bicyclist,0.75,🚴
+bomb,0,💣
+bicyclist,0.75,🚴🏻
+bicyclist,0.75,🚴🏼
+bicyclist,0.75,🚴🏽
+bicyclist,0.75,🚴🏾
+bicyclist,0.75,🚴🏿
+man biking,0.75,🚴‍♂️
+man biking type 1 2,0.75,🚴🏻‍♂️
+man biking type 3,0.75,🚴🏼‍♂️
+man biking type 4,0.75,😍
+man biking type 5,0.75,🗨️
+smiling face with heart shaped eyes,1,🚴🏽‍♂️
+speech balloon,0.5,🚴🏾‍♂️
+man biking type 6,0.75,🚴🏿‍♂️
+woman biking,0.75,🚴‍♀️
+woman biking type 1 2,0.75,🚴🏻‍♀️
+woman biking type 3,0.75,🚴🏼‍♀️
+woman biking type 4,0.75,🚴🏽‍♀️
+woman biking type 5,0.75,🚴🏾‍♀️
+woman biking type 6,0.75,🚴🏿‍♀️
+mountain bicyclist,0.75,🚵
+mountain bicyclist,0.75,🚵🏻
+mountain bicyclist,0.75,🚵🏼
+eye in speech bubble,0.5,👁️‍🗨️
+mountain bicyclist,0.75,🚵🏽
+mountain bicyclist,0.75,🚵🏾
+mountain bicyclist,0.75,🚵🏿
+man mountain biking,0.75,🚵‍♂️
+man mountain biking type 1 2,0.75,🚵🏻‍♂️
+man mountain biking type 3,0.75,🚵🏼‍♂️
+man mountain biking type 4,0.75,🚵🏽‍♂️
+man mountain biking type 5,0.75,🚵🏾‍♂️
+man mountain biking type 6,0.75,🚵🏿‍♂️
+woman mountain biking,0.75,🚵‍♀️
+left speech bubble,0.5,🗨️
+woman mountain biking type 1 2,0.75,🚵🏻‍♀️
+woman mountain biking type 3,0.75,🚵🏼‍♀️
+woman mountain biking type 4,0.75,🚵🏽‍♀️
+woman mountain biking type 5,0.75,🚵🏾‍♀️
+woman mountain biking type 6,0.75,🚵🏿‍♀️
+person doing cartwheel,0.75,🤸
+person doing cartwheel,0.75,🤸🏻
+person doing cartwheel,0.75,🤸🏼
+person doing cartwheel,0.75,🤸🏽
+person doing cartwheel,0.75,🤸🏾
+right anger bubble,0.25,🗯️
+person doing cartwheel,0.75,🤸🏿
+man doing cartwheel,0.75,🤸‍♂️
+man doing cartwheel type 1 2,0.75,🤸🏻‍♂️
+man doing cartwheel type 3,0.75,🤸🏼‍♂️
+man doing cartwheel type 4,0.75,🤸🏽‍♂️
+man doing cartwheel type 5,0.75,🤸🏾‍♂️
+man doing cartwheel type 6,0.75,🤸🏿‍♂️
+woman doing cartwheel,0.75,🤸‍♀️
+woman doing cartwheel type 1 2,0.75,🤸🏻‍♀️
+woman doing cartwheel type 3,0.75,🤸🏼‍♀️
+thought balloon,0.5,💭
+woman doing cartwheel type 4,0.75,🤸🏽‍♀️
+woman doing cartwheel type 5,0.75,🤸🏾‍♀️
+woman doing cartwheel type 6,0.75,🤸🏿‍♀️
+wrestlers,0.75,🤼
+men wrestling,0.75,🤼‍♂️
+women wrestling,0.75,🤼‍♀️
+water polo,0.75,🤽
+water polo,0.75,🤽🏻
+water polo,0.75,🤽🏼
+water polo,0.75,🤽🏽
+sleeping symbol,0.75,💤
+water polo,0.75,🤽🏾
+water polo,0.75,🤽🏿
+man playing water polo,0.75,🤽‍♂️
+man playing water polo type 1 2,0.75,🤽🏻‍♂️
+man playing water polo type 3,0.75,🤽🏼‍♂️
+man playing water polo type 4,0.75,🤽🏽‍♂️
+man playing water polo type 5,0.75,🤽🏾‍♂️
+man playing water polo type 6,0.75,🤽🏿‍♂️
+woman playing water polo,0.75,🤽‍♀️
+woman playing water polo type 1 2,0.75,🤽🏻‍♀️
+waving hand sign,0.75,👋
+woman playing water polo type 3,0.75,🤽🏼‍♀️
+woman playing water polo type 4,0.75,🤽🏽‍♀️
+woman playing water polo type 5,0.75,🤽🏾‍♀️
+woman playing water polo type 6,0.75,🤽🏿‍♀️
+handball,0.75,🤾
+handball,0.75,🤾🏻
+handball,0.75,🤾🏼
+handball,0.75,🤾🏽
+handball,0.75,🤾🏾
+handball,0.75,🤾🏿
+waving hand sign,0.75,👋
+man playing handball,0.75,🤾‍♂️
+man playing handball type 1 ,0.75,🤾🏻‍♂️
+man playing handball type 2,0.75,🤾🏼‍♂️
+man playing handball type 3,0.75,🤾🏽‍♂️
+man playing handball type 4,0.75,🤾🏾‍♂️
+man playing handball type 5,0.75,🤾🏿‍♂️
+man playing handball type 6,0.75,🤾‍♀️
+woman playing handball,0.75,🤾🏻‍♀️
+woman playing handball type 1 2,0.75,🤾🏼‍♀️
+woman playing handball type 3,0.75,🤾🏽‍♀️
+woman playing handball type 4,0.75,🤾🏾‍♀️
+waving hand sign,0.75,👋
+woman playing handball type 5,0.75,🤾🏽‍♀️
+woman playing handball type 6,0.75,🤾🏾‍♀️
+juggling,0.75,🤹
+juggling,0.75,🤹🏻
+juggling,0.75,🤹🏼
+juggling,0.75,🤹🏽
+juggling,0.75,🤹🏾
+juggling,0.75,🤹🏿
+man juggling,0.75,🤹‍♂️
+man juggling type 1 2,0.75,🤹🏻‍♂️
+waving hand sign,0.75,👋
+man juggling type 3,0.75,🤹🏼‍♂️
+man juggling type 4,0.75,🤹🏽‍♂️
+man juggling type 5,0.75,🤹🏾‍♂️
+man juggling type 6,0.75,🤹🏿‍♂️
+woman juggling,0.75,🤹‍♀️
+woman juggling type 1 2,0.75,🤹🏻‍♀️
+woman juggling type 3,0.75,🤹🏼‍♀️
+woman juggling type 4,0.75,🤹🏽‍♀️
+woman juggling type 5,0.75,🤹🏾‍♀️
+woman juggling type 6,0.75,🤹🏿‍♀️
+grinning face with star eyes,1,🤩
+waving hand sign,0.75,👋
+person in lotus position,0.75,🧘
+person in lotus position,0.75,🧘🏻
+person in lotus position,0.75,🧘🏼
+person in lotus position,0.75,🧘🏽
+person in lotus position,0.75,🧘🏾
+person in lotus position,0.75,🧘🏿
+man in lotus position,0.75,🧘‍♂️
+man in lotus position light skin tone,0.75,🧘🏻‍♂️
+man in lotus position medium light skin tone,0.75,🧘🏼‍♂️
+man in lotus position medium skin tone,0.75,🧘🏽‍♂️
+waving hand sign,0.75,👋
+man in lotus position medium dark skin tone,0.75,🧘🏾‍♂️
+man in lotus position dark skin tone,0.75,🧘🏿‍♂️
+woman in lotus position,0.75,🧘‍♀️
+woman in lotus position light skin tone,0.75,🧘🏻‍♀️
+woman in lotus position medium light skin tone,0.75,🧘🏼‍♀️
+woman in lotus position medium skin tone,0.75,🧘🏽‍♀️
+woman in lotus position medium dark skin tone,0.75,🧘🏾‍♀️
+woman in lotus position dark skin tone,0.75,🧘🏿‍♀️
+bath,0.75,🛀
+bath,0.75,🛀🏻
+raised back of hand,0.5,🤚
+bath,0.75,🛀🏼
+bath,0.75,🛀🏽
+bath,0.75,🛀🏾
+bath,0.75,🛀🏿
+sleeping accommodation,0.75,🛌
+two women holding hands,1,👭
+man and woman holding hands,1,👫
+two men holding hands,1,👬
+kiss,1,💏
+kiss woman man,1,💏‍♀️
+raised back of hand,1,🤚
+kiss man man,1,💏‍♂️
+kiss woman woman,1,💏‍♀️
+couple with heart,1,💑
+couple with heart woman man,1,💑‍♀️
+couple with heart man man,1,💑‍♂️
+couple with heart woman woman,1,💑‍♀️
+family man woman boy,1,👨‍👩‍👦
+family man woman girl,1,👨‍👩‍👧
+family man woman girl boy,1,👨‍👩‍👧‍👦
+family man woman boy boy,1,👨‍👩‍👦‍👦
+raised back of hand,0.5,🤚
+family man woman girl girl,1,👨‍👩‍👧‍👧
+family man man boy,1,👨‍👨‍👦
+family man man girl,1,👨‍👨‍👧
+family man man girl boy,1,👨‍👨‍👧‍👦
+family man man boy boy,1,👨‍👨‍👦‍👦
+family man man girl girl,1,👨‍👨‍👧‍👧
+family woman woman boy,1,👩‍👩‍👦
+family woman woman girl,1,👩‍👩‍👧
+family woman woman girl boy,1,👩‍👩‍👧‍👦
+family woman woman boy boy,1,👩‍👩‍👦‍👦
+raised back of hand,0.5,🤚
+family woman woman girl girl,1,👩‍👩‍👧‍👧
+family,1,👪
+family man boy,1,👨‍👦
+family man boy boy,1,👨‍👦‍👦
+family man girl,1,👨‍👧
+family man girl boy,1,👨‍👧‍👦
+family man girl girl,1,👨‍👧‍👧
+family woman boy,1,👩‍👦
+family woman boy boy,1,👩‍👦‍👦
+family woman girl,1,👩‍👧
+raised back of hand,0.5,🤚
+family woman girl boy,1,👩‍👧‍👦
+family woman girl girl,1,👩‍👧‍👧
+speaking head in silhouette,0.5,🗣️
+bust in silhouette,0.5,👤
+busts in silhouette,0.5,👥
+footprints,0.5,👣
+monkey face,0.75,🐵
+monkey,0.75,🐒
+gorilla,0.5,🦍
+dog face,0.75,🐶
+raised back of hand,0.5,🤚
+dog,0.5,🐕
+poodle,0.5,🐩
+wolf face,0.5,🐺
+fox face,0.5,🦊
+raccoon,0.5,🦝
+cat face,0.75,🐱
+cat,0.5,🐈
+lion face,0.5,🦁
+tiger face,0.5,🐯
+tiger,0.5,🐅
+raised hand with fingers splayed,0.5,🖐️
+leopard,0.5,🐆
+horse face,0.5,🐴
+horse,0.5,🐎
+unicorn face,0.75,🦄
+zebra face,0.5,🦓
+deer,0.5,🦌
+cow face,0.5,🐮
+ox,0.5,🐂
+water buffalo,0.5,🐃
+cow,0.5,🐄
+raised hand with fingers splayed,0.5,🤚
+pig face,0.5,🐷
+pig,0.5,🐖
+boar,0.5,🐗
+pig nose,0.25,🐽
+ram,0.5,🐏
+sheep,0.5,🐑
+goat,0.5,🐐
+dromedary camel,0.5,🐪
+bactrian camel,0.5,🐫
+llama,0.5,🦙
+face throwing a kiss,1,😘
+raised hand with fingers splayed,0.5,🖖
+giraffe face,0.5,🦒
+elephant,0.5,🐘
+rhinoceros,0.5,🦏
+hippopotamus,0.5,🦛
+mouse face,0.5,🐭
+mouse,0.5,🐁
+rat,0.5,🐀
+hamster face,0.75,🐹
+rabbit face,0.75,🐰
+rabbit,0.5,🐇
+raised hand with fingers splayed,0.5,🖖
+chipmunk,0.5,🐿️
+hedgehog,0.5,🦔
+bat,0.5,🦇
+bear face,0.5,🐻
+koala,0.5,🐨
+panda face,0.75,🐼
+kangaroo,0.5,🦘
+badger,0.5,🦡
+paw prints,0.5,🐾
+turkey,0.5,🦃
+raised hand with fingers splayed,0.5,🖖
+chicken,0.5,🐔
+rooster,0.5,🐓
+hatching chick,0.75,🐣
+baby chick,0.75,🐤
+front facing baby chick,0.75,🐥
+bird,0.5,🐦
+penguin,0.5,🐧
+dove of peace,0.75,🕊️
+eagle,0.5,🦅
+duck,0.5,🦆
+raised hand with fingers splayed,0.5,🖖
+swan,0.5,🦢
+owl,0.5,🦉
+peacock,0.5,🦚
+parrot,0.5,🦜
+frog face,0.5,🐸
+crocodile,0.5,🐊
+turtle,0.5,🐢
+lizard,0.5,🦎
+snake,0.25,🐍
+dragon face,0.5,🐲
+raised hand,0.5,✋
+dragon,0.5,🐉
+sauropod,0.5,🦕
+t rex,0.5,🦖
+spouting whale,0.5,🐳
+whale,0.5,🐋
+dolphin,0.5,🐬
+fish,0.5,🐟
+tropical fish,0.5,🐠
+blowfish,0.5,🐡
+shark,0.5,🦈
+raised hand,0.5,✋
+octopus,0.5,🐙
+spiral shell,0.5,🐚
+snail,0.5,🐌
+butterfly,0.75,🦋
+bug,0.5,🐛
+ant,0.5,🐜
+honeybee,0.5,🐝
+lady beetle,0.5,🐞
+cricket,0.5,🦗
+spider,0.5,🕷️
+raised hand,0.5,✋
+spider web,0.5,🕸️
+scorpion,0.25,🦂
+mosquito,0.25,🦟
+microbe,0.25,🦠
+bouquet,1,💐
+cherry blossom,1,🌸
+white flower,1,💮
+rosette,1,🏵️
+rose,1,🌹
+wilted flower,0,🥀
+raised hand,0.5,✋
+hibiscus,1,🌺
+sunflower,1,🌻
+blossom,1,🌼
+tulip,1,🌷
+seedling,0.75,🌱
+evergreen tree,0.5,🌲
+deciduous tree,0.5,🌳
+palm tree,0.5,🌴
+cactus,0.5,🌵
+ear of rice,0.5,🌾
+raised hand,0.5,✋
+herb,0.5,🌿
+shamrock,1,☘️
+four leaf clover,1,🍀
+maple leaf,0.5,🍁
+fallen leaf,0.5,🍂
+leaf fluttering in wind,0.5,🍃
+grapes,0.75,🍇
+melon,0.75,🍈
+watermelon,0.75,🍉
+tangerine,0.75,🍊
+raised hand,0.5,✋
+lemon,0.75,🍋
+banana,0.75,🍌
+pineapple,0.75,🍍
+mango,0.75,🥭
+red apple,0.75,🍎
+green apple,0.75,🍏
+pear,0.75,🍐
+peach,0.75,🍑
+cherries,0.75,🍒
+strawberry,0.75,🍓
+kissing face,1,😘
+raised hand with part between middle and ring fingers,0.5,🖖
+kiwifruit,0.75,🥝
+tomato,0.75,🍅
+coconut,0.75,🥥
+avocado,0.75,🥑
+aubergine,0.75,🍆
+potato,0.75,🥔
+carrot,0.75,🥕
+ear of maize,0.75,🌽
+hot pepper,0.75,🌶️
+cucumber,0.75,🥒
+raised hand with part between middle and ring fingers,0.5,🖖
+leafy green,0.75,🥬
+broccoli,0.75,🥦
+mushroom,0.75,🍄
+peanuts,0.75,🥜
+chestnut,0.75,🌰
+bread,0.75,🍞
+croissant,0.75,🥐
+baguette bread,0.75,🥖
+pretzel,0.75,🥨
+bagel,0.75,🥯
+raised hand with part between middle and ring fingers,0.5,🖖
+pancakes,0.75,🥞
+cheese wedge,0.75,🧀
+meat on bone,0.75,🍖
+poultry leg,0.75,🍗
+cut of meat,0.75,🥩
+bacon,0.75,🥓
+hamburger,0.75,🍔
+french fries,0.75,🍟
+slice of pizza,0.75,🍕
+hot dog,0.75,🌭
+raised hand with part between middle and ring fingers,0.5,🖖
+sandwich,0.75,🥪
+taco,0.75,🌮
+burrito,0.75,🌯
+stuffed flatbread,0.75,🥙
+egg,0.75,🥚
+cooking,0.75,🍳
+shallow pan of food,0.75,🥘
+pot of food,0.75,🍲
+bowl with spoon,0.75,🥣
+green salad,0.75,🥗
+raised hand with part between middle and ring fingers,0.5,🖖
+popcorn,0.75,🍿
+salt shaker,0.75,🧂
+canned food,0.75,🥫
+bento box,0.75,🍱
+rice cracker,0.75,🍘
+rice ball,0.75,🍙
+cooked rice,0.75,🍚
+curry and rice,0.75,🍛
+steaming bowl,0.75,🍜
+spaghetti,0.75,🍝
+raised hand with part between middle and ring fingers,0.5,🖖
+roasted sweet potato,0.75,🍠
+oden,0.75,🍢
+sushi,0.75,🍣
+fried shrimp,0.75,🍤
+fish cake with swirl design,0.75,🍥
+moon cake,0.75,🥮
+dango,0.75,🍡
+dumpling,0.75,🥟
+fortune cookie,0.75,🥠
+takeout box,0.75,🥡
+ok hand sign,1,👌
+crab,0.75,🦀
+lobster,0.75,🦞
+shrimp,0.75,🦐
+squid,0.75,🦑
+soft ice cream,0.75,🍦
+shaved ice,0.75,🍧
+ice cream,0.75,🍨
+doughnut,0.75,🍩
+cookie,0.75,🍪
+birthday cake,0.75,🎂
+ok hand sign,0.75,👌
+shortcake,0.75,🍰
+cupcake,0.75,🧁
+pie,0.75,🥧
+chocolate bar,0.75,🍫
+candy,0.75,🍬
+lollipop,0.75,🍭
+custard,0.75,🍮
+honey pot,0.75,🍯
+baby bottle,0.75,🍼
+glass of milk,0.75,🥛
+ok hand sign,1,👌
+hot beverage,0.75,☕
+teacup without handle,0.75,🍵
+sake bottle and cup,0.75,🍶
+bottle with popping cork,1,🍾
+wine glass,0.75,🍷
+cocktail glass,0.75,🍸
+tropical drink,0.75,🍹
+beer mug,0.75,🍺
+clinking beer mugs,1,🍻
+clinking glasses,1,🥂
+ok hand sign,1,👌
+tumbler glass,0.75,🥃
+cup with straw,0.75,🥤
+chopsticks,0.75,🥢
+fork and knife with plate,0.75,🍽️
+fork and knife,0.75,🍴
+spoon,0.75,🥄
+hocho,0.25,🔪
+amphora,0.75,🏺
+earth globe europe africa,0.75,🌍
+earth globe americas,0.75,🌎
+white smiling face,1,☺️
+ok hand sign,0.5,👌
+earth globe asia australia,0.5,🌏
+globe with meridians,0.5,🌐
+world map,0.5,🗺️
+silhouette of japan,0.5,🗾
+compass,0.5,🧭
+snow capped mountain,0.75,🏔️
+mountain,0.75,⛰️
+volcano,0.25,🌋
+mount fuji,0.75,🗻
+camping,0.75,🏕️
+ok hand sign,1,👌
+beach with umbrella,0.75,🏖️
+desert,0.75,🏜️
+desert island,0.75,🏝️
+national park,0.75,🏞️
+stadium,0.5,🏟️
+classical building,0.5,🏛️
+building construction,0.5,🏗️
+brick,0.5,🧱
+house buildings,0.5,🏘️
+derelict house building,0.5,🏚️
+victory hand,1,✌️
+house building,0.5,🏠
+house with garden,0.5,🏡
+office building,0.5,🏢
+japanese post office,0.5,🏣
+european post office,0.5,🏤
+hospital,0.25,🏥
+bank,0.5,🏦
+hotel,0.5,🏨
+love hotel,1,🏩
+convenience store,0.5,🏪
+victory hand,0.5,✌️
+school,0.5,🏫
+department store,0.5,🏬
+factory,0.5,🏭
+japanese castle,0.5,🏯
+european castle,0.5,🏰
+wedding,1,💒
+tokyo tower,0.5,🗼
+statue of liberty,0.5,🗽
+church,0.5,⛪
+mosque,0.5,🕌
+victory hand,1,✌️
+synagogue,0.5,🕍
+shinto shrine,0.5,⛩️
+kaaba,0.5,🕋
+fountain,0.5,⛲
+tent,0.5,⛺
+foggy,0.5,🌁
+night with stars,0.75,🌃
+cityscape,0.75,🏞️
+sunrise over mountains,0.75,🌄
+sunrise,0.75,🌅
+victory hand,1,✌️
+cityscape at dusk,0.75,🌆
+sunset over buildings,0.75,🌇
+bridge at night,0.75,🌉
+hot springs,0.5,♨️
+carousel horse,0.75,🎠
+ferris wheel,0.75,🎡
+roller coaster,0.75,🎢
+barber pole,0.75,💈
+circus tent,0.75,🎪
+steam locomotive,0.75,🚂
+victory hand,1,✌️
+railway car,0.5,🚃
+high speed train,0.5,🚄
+high speed train with bullet nose,0.5,🚅
+train,0.5,🚆
+metro,0.5,🚇
+light rail,0.5,🚈
+station,0.5,🚉
+tram,0.5,🚊
+monorail,0.5,🚝
+mountain railway,0.5,🚞
+victory hand,1,✌️
+tram car,0.5,🚋
+bus,0.5,🚌
+oncoming bus,0.5,🚍
+trolleybus,0.5,🚎
+minibus,0.5,🚐
+ambulance,0.5,🚑
+fire engine,0.5,🚒
+police car,0.5,🚓
+oncoming police car,0.5,🚔
+taxi,0.5,🚕
+hand with index and middle fingers crossed,0.75,🤞
+oncoming taxi,0.5,🚖
+automobile,0.5,🚗
+oncoming automobile,0.5,🚘
+recreational vehicle,0.5,🚙
+delivery truck,0.5,🚚
+articulated lorry,0.5,🚛
+tractor,0.5,🚜
+racing car,0.5,🏎️
+racing motorcycle,0.5,🏍️
+motor scooter,0.5,🛵
+hand with index and middle fingers crossed,0.75,🤞
+bicycle,0.5,🚲
+scooter,0.5,🛴
+skateboard,0.5,🛹
+bus stop,0.5,🚏
+motorway,0.5,🛣️
+railway track,0.5,🛤️
+oil drum,0.5,🛢️
+fuel pump,0.5,⛽
+police cars revolving light,0.25,🚨
+horizontal traffic light,0.5,🚥
+kissing face with closed eyes,1,😚
+hand with index and middle fingers crossed,0.75,🤞
+vertical traffic light,0.5,🚦
+octagonal sign,0.5,🛑
+construction sign,0.5,🚧
+anchor,0.5,⚓
+sailboat,0.5,⛵
+canoe,0.5,🛶
+speedboat,0.5,🚤
+passenger ship,0.5,🛳️
+ferry,0.5,⛴️
+motor boat,0.5,🛥️
+hand with index and middle fingers crossed,0.75,🤞
+ship,0.5,🚢
+airplane,0.5,✈️
+small airplane,0.5,🛩️
+airplane departure,0.5,🛫
+airplane arriving,0.5,🛬
+seat,0.5,💺
+helicopter,0.5,🚁
+suspension railway,0.5,🚟
+mountain cableway,0.5,🚠
+aerial tramway,0.5,🚡
+hand with index and middle fingers crossed,0.75,🤞
+satellite,0.5,🛰️
+rocket,0.5,🚀
+flying saucer,0.5,🛸
+bellhop bell,0.5,🛎️
+luggage,0.5,🧳
+hourglass,0.5,⌛
+hourglass with flowing sand,0.5,⏳
+watch,0.5,⌚
+alarm clock,0.5,⏰
+stopwatch,0.5,⏱️
+hand with index and middle fingers crossed,0.75,🤞
+timer clock,0.5,⏲️
+mantelpiece clock,0.5,🕰️
+clock face twelve oclock,0.5,🕛
+clock face twelve thirty,0.5,🕧
+clock face one oclock,0.5,🕐
+clock face one thirty,0.5,🕜
+clock face two oclock,0.5,🕑
+clock face two thirty,0.5,🕝
+clock face three oclock,0.5,🕒
+clock face three thirty,0.5,🕞
+i love you hand sign,1,🤟
+clock face four oclock,0.5,🕓
+clock face four thirty,0.5,🕟
+clock face five oclock,0.5,🕔
+clock face five thirty,0.5,🕠
+clock face six oclock,0.5,🕕
+clock face six thirty,0.5,🕡
+clock face seven oclock,0.5,🕖
+clock face seven thirty,0.5,🕢
+clock face eight oclock,0.5,🕗
+clock face eight thirty,0.5,🕣
+i love you hand sign,1,🤟
+clock face nine oclock,0.5,🕘
+clock face nine thirty,0.5,🕤
+clock face ten oclock,0.5,🕙
+clock face ten thirty,0.5,🕥
+clock face eleven oclock,0.5,🕚
+clock face eleven thirty,0.5,🕦
+new moon symbol,0.75,🌑
+waxing crescent moon symbol,0.75,🌒
+first quarter moon symbol,0.75,🌓
+waxing gibbous moon symbol,0.75,🌔
+i love you hand sign,1,🤟
+full moon symbol,0.75,🌕
+waning gibbous moon symbol,0.75,🌖
+last quarter moon symbol,0.75,🌗
+waning crescent moon symbol,0.75,🌘
+crescent moon,1,🌙
+new moon with face,0.75,🌚
+first quarter moon with face,0.75,🌛
+last quarter moon with face,0.75,🌜
+thermometer,0.25,🌡️
+black sun with rays,0.75,☀️
+i love you hand sign,1,🤟
+full moon with face,1,🌝
+sun with face,1,🌞
+white medium star,1,⭐
+glowing star,1,🌟
+shooting star,1,🌠
+milky way,1,🌌
+cloud,0.5,☁️
+sun behind cloud,0.5,⛅
+thunder cloud and rain,0.25,⛈️
+white sun with small cloud,0.5,🌤️
+i love you hand sign,1,🤟
+white sun behind cloud,0.5,🌥️
+white sun behind cloud with rain,0.5,🌦️
+cloud with rain,0.5,🌧️
+cloud with snow,0.5,🌨️
+cloud with lightning,0.25,🌩️
+cloud with tornado,0.25,🌪️
+fog,0.5,🌫️
+wind blowing face,0.75,🌬️
+cyclone,0.25,🌀
+rainbow,1,🌈
+i love you hand sign,1,🤟
+closed umbrella,0.5,🌂
+umbrella,0.5,☂️
+umbrella with rain drops,0.5,☔
+umbrella on ground,0.5,⛱️
+high voltage sign,0.75,⚡
+snowflake,0.75,❄️
+snowman,0.75,☃️
+snowman without snow,0.75,⛄
+comet,0.5,☄️
+fire,0.75,🔥
+smiling face with open mouth and smiling eyes,1,😄
+kissing face with smiling eyes,1,😚
+sign of the horns,1,🤘
+droplet,0.5,💧
+water wave,0.5,🌊
+jack o lantern,0.75,🎃
+christmas tree,1,🎄
+fireworks,1,🎆
+firework sparkler,1,🎇
+firecracker,1,🧨
+sparkles,1,✨
+balloon,1,🎈
+party popper,1,🎉
+sign of the horns,1,🤘
+confetti ball,1,🎊
+tanabata tree,1,🎋
+pine decoration,1,🎍
+japanese dolls,1,🎎
+carp streamer,1,🎏
+wind chime,1,🎐
+moon viewing ceremony,1,🎑
+red gift envelope,1,🧧
+ribbon,1,🎀
+wrapped present,1,🎁
+sign of the horns,1,🤘
+reminder ribbon,1,🎗️
+admission tickets,0.5,🎟️
+ticket,0.5,🎫
+military medal,1,🎖️
+trophy,1,🏆
+sports medal,1,🏅
+first place medal,1,🥇
+second place medal,1,🥈
+third place medal,1,🥉
+soccer ball,0.75,⚽
+sign of the horns,1,🤘
+baseball,0.75,⚾
+softball,0.75,🥎
+basketball and hoop,0.75,🏀
+volleyball,0.75,🏐
+american football,0.75,🏈
+rugby football,0.75,🏉
+tennis racquet and ball,0.75,🎾
+flying disc,0.75,🥏
+bowling,0.75,🎳
+cricket bat and ball,0.75,🏏
+sign of the horns,1,🤘
+field hockey stick and ball,0.75,🏑
+ice hockey stick and puck,0.75,🏒
+lacrosse stick and ball,0.75,🥍
+table tennis paddle and ball,0.75,🏓
+badminton racquet and shuttlecock,0.75,🏸
+boxing glove,0.75,🥊
+martial arts uniform,0.5,🥋
+goal net,0.5,🥅
+flag in hole,0.5,⛳
+ice skate,0.5,⛸️
+sign of the horns,1,🤘
+fishing pole and fish,0.5,🎣
+running shirt with sash,0.75,🎽
+ski and ski boot,0.5,🎿
+sled,0.5,🛷
+curling stone,0.5,🥌
+direct hit,1,🎯
+billiards,0.5,🎱
+crystal ball,0.75,🔮
+nazar amulet,1,🧿
+video game,0.75,🎮
+call me hand,1,🤙
+joystick,0.75,🕹️
+slot machine,0.75,🎰
+game die,0.75,🎲
+jigsaw puzzle piece,0.75,🧩
+teddy bear,1,🧸
+black spade suit,0.75,♠️
+black heart suit,0.75,♥️
+black diamond suit,0.75,♦️
+black club suit,0.75,♣️
+black chess pawn,0.75,♟️
+call me hand,1,🤙
+playing card black joker,0.75,🃏
+mahjong tile red dragon,0.75,🀄
+flower playing cards,0.75,🎴
+performing arts,0.75,🎭
+frame with picture,0.5,🖼️
+artist palette,0.5,🎨
+spool of thread,0.5,🧵
+ball of yarn,0.5,🧶
+eyeglasses,0.5,👓
+dark sunglasses,0.75,🕶️
+call me hand,1,🤙
+goggles,0.5,🥽
+lab coat,0.5,🥼
+necktie,0.5,👔
+t shirt,0.5,👕
+jeans,0.5,👖
+scarf,0.5,🧣
+gloves,0.5,🧤
+coat,0.5,🧥
+socks,0.5,🧦
+dress,0.5,👗
+call me hand,1,🤙
+kimono,0.5,👘
+bikini,1,👙
+womans clothes,0.5,👚
+purse,0.5,👛
+handbag,0.5,👜
+pouch,0.5,👝
+shopping bags,1,🛍️
+school satchel,0.5,🎒
+mans shoe,0.5,👞
+athletic shoe,0.5,👟
+face savouring delicious food,1,😋
+call me hand,1,🤙
+hiking boot,0.5,🥾
+flat shoe,0.5,🥿
+high heeled shoe,0.5,👠
+womans sandal,0.5,👡
+womans boots,0.5,👢
+crown,1,👑
+womans hat,0.5,👒
+top hat,0.5,🎩
+graduation cap,1,🎓
+billed cap,0.5,🧢
+call me hand,1,🤙
+helmet with white cross,0.5,⛑️
+prayer beads,1,📿
+lipstick,0.5,💄
+ring,1,💍
+gem stone,1,💎
+speaker with cancellation stroke,0.5,🔇
+speaker,0.5,🔈
+speaker with one sound wave,0.5,🔉
+speaker with three sound waves,0.5,🔊
+public address loudspeaker,0.5,📢
+white left pointing backhand index,0.5,👈
+cheering megaphone,0.5,📣
+postal horn,0.5,📯
+bell,0.5,🔔
+bell with cancellation stroke,0.5,🔕
+musical score,0.5,🎼
+musical note,0.75,🎵
+multiple musical notes,0.75,🎶
+studio microphone,0.5,🎙️
+level slider,0.5,🎚️
+control knobs,0.5,🎛️
+white left pointing backhand index,0.5,👈
+microphone,0.5,🎤
+headphone,0.75,🎧
+radio,0.75,📻
+saxophone,0.75,🎷
+guitar,0.75,🎸
+musical keyboard,0.75,🎹
+trumpet,0.75,🎺
+violin,0.75,🎻
+drum with drumsticks,0.75,🥁
+mobile phone,0.75,📱
+white left pointing backhand index,0.5,👈
+mobile phone with rightwards arrow at left,0.5,📲
+black telephone,0.5,☎️
+telephone receiver,0.5,📞
+pager,0.5,📟
+fax machine,0.5,📠
+battery,0.5,🔋
+electric plug,0.5,🔌
+personal computer,0.5,💻
+desktop computer,0.5,🖥️
+printer,0.5,🖨️
+white left pointing backhand index,0.5,👈
+keyboard,0.5,⌨️
+three button mouse,0.5,🖱️
+trackball,0.5,🖲️
+minidisc,0.5,💽
+floppy disk,0.5,💾
+optical disc,0.5,💿
+dvd,0.5,📀
+abacus,0.5,🧮
+movie camera,0.5,🎥
+film frames,0.5,🎞️
+white left pointing backhand index,0.5,👈
+film projector,0.5,📽️
+clapper board,0.5,🎬
+television,0.5,📺
+camera,0.5,📷
+camera with flash,0.5,📸
+video camera,0.5,📹
+videocassette,0.5,📼
+left pointing magnifying glass,0.5,🔍
+right pointing magnifying glass,0.5,🔎
+candle,0.5,🕯️
+white left pointing backhand index,0.5,👈
+electric light bulb,0.5,💡
+electric torch,0.5,🔦
+izakaya lantern,0.5,🏮
+notebook with decorative cover,0.5,📔
+closed book,0.5,📕
+open book,0.5,📖
+green book,0.5,📗
+blue book,0.5,📘
+orange book,0.5,📙
+books,0.5,📚
+white right pointing backhand index,0.5,👉
+notebook,0.5,📓
+ledger,0.5,📒
+page with curl,0.5,📃
+scroll,0.5,📜
+page facing up,0.5,📄
+newspaper,0.5,📰
+rolled up newspaper,0.5,🗞️
+bookmark tabs,0.5,📑
+bookmark,0.5,🔖
+label,0.5,🏷️
+white right pointing backhand index,0.5,👉
+money bag,0.75,💰
+banknote with yen sign,0.75,💴
+banknote with dollar sign,0.75,💵
+banknote with euro sign,0.75,💶
+banknote with pound sign,0.75,💷
+money with wings,1,💸
+credit card,0.5,💳
+receipt,0.5,🧾
+chart with upwards trend and yen sign,0.75,💹
+currency exchange,0.5,💱
+face with stuck out tongue,1,😛
+white right pointing backhand index,0.5,👉
+heavy dollar sign,0.5,💲
+envelope,0.5,✉️
+e mail symbol,0.5,📧
+incoming envelope,0.5,📨
+envelope with downwards arrow above,0.5,📩
+outbox tray,0.5,📤
+inbox tray,0.5,📥
+package,0.5,📦
+closed mailbox with raised flag,0.5,📪
+closed mailbox with lowered flag,0.5,📫
+white right pointing backhand index,0.5,👉
+open mailbox with raised flag,0.5,📬
+open mailbox with lowered flag,0.5,📭
+postbox,0.5,📮
+ballot box with ballot,0.5,🗳️
+pencil,0.5,✏️
+black nib,0.5,✒️
+lower left fountain pen,0.5,🖋️
+lower left ballpoint pen,0.5,🖊️
+lower left paintbrush,0.5,🖌️
+lower left crayon,0.5,🖍️
+white right pointing backhand index,0.5,👉
+memo,0.5,📝
+briefcase,0.5,💼
+file folder,0.5,📁
+card index dividers,0.5,🗂️
+calendar,0.5,📆
+tear off calendar,0.5,📅
+spiral note pad,0.5,🗒️
+spiral calendar pad,0.5,🗓️
+card index,0.5,📇
+chart with upwards trend,1,📈
+white right pointing backhand index,0.5,👉
+chart with downwards trend,0,📉
+bar chart,0.5,📊
+clipboard,0.5,📋
+pushpin,0.5,📌
+round pushpin,0.5,📍
+paperclip,0.5,📎
+linked paperclips,0.5,🖇️
+straight ruler,0.5,📏
+triangular ruler,0.5,📐
+black scissors,0.5,✂️
+white up pointing backhand index,0.5,👆
+card file box,0.5,🗃️
+file cabinet,0.5,🗄️
+wastebasket,0.5,🗑️
+lock,0.5,🔒
+open lock,0.5,🔓
+lock with ink pen,0.5,🔏
+closed lock with key,0.5,🔐
+key,0.5,🔑
+old key,0.5,🗝️
+hammer,0.5,🔨
+white up pointing backhand index,0.5,👆
+pick,0.5,⛏️
+hammer and pick,0.5,⚒️
+hammer and wrench,0.5,🛠️
+dagger knife,0.25,🗡️
+crossed swords,0.25,⚔️
+pistol,0.25,🔫
+bow and arrow,0.25,🏹
+shield,0.75,🛡️
+wrench,0.5,🔧
+nut and bolt,0.5,🔩
+white up pointing backhand index,0.5,👆
+gear,0.5,⚙️
+compression,0.5,🗜️
+scales,0.5,⚖️
+link symbol,0.5,🔗
+chains,0.5,⛓️
+toolbox,0.5,🧰
+magnet,0.5,🧲
+alembic,0.5,⚗️ 
+test tube,0.5,🧪
+petri dish,0.5,🧫
+white up pointing backhand index,0.5,👆
+dna double helix,0.5,🧬
+microscope,0.5,🔬
+telescope,0.5,🔭
+satellite antenna,0.5,📡
+syringe,0.25,💉
+pill,0.25,💊
+door,0.5,🚪
+bed,0.5,🛏️
+couch and lamp,0.5,🛋️
+toilet,0.5,🚽
+white up pointing backhand index,0.5,👆
+shower,0.5,🚿
+bathtub,0.5,🛁
+lotion bottle,0.5,🧴
+safety pin,0.5,🧷
+broom,0.5,🧹
+basket,0.5,🧺
+roll of paper,0.5,🧻
+bar of soap,0.5,🧼
+sponge,0.5,🧽
+fire extinguisher,0.5,🧯
+white up pointing backhand index,0.5,👆
+shopping trolley,0.5,🛒
+smoking symbol,0.25,🚬
+coffin,0,⚰️
+funeral urn,0,⚱️
+moyai,0.75,🗿
+automated teller machine,0.5,🏧
+put litter in its place symbol,0.5,🚮
+potable water symbol,0.5,🚰
+wheelchair symbol,0.5,♿
+mens symbol,0.5,🚹
+face with stuck out tongue and winking eye,1,😜
+reversed hand with middle finger extended,0,🖕
+womens symbol,0.5,🚺
+restroom,0.5,🚻
+baby symbol,0.5,🚼
+water closet,0.5,🚾
+passport control,0.5,🛂
+customs,0.5,🛃
+baggage claim,0.5,🛄
+left luggage,0.5,🛅
+warning sign,0,⚠️
+children crossing,0.5,🚸
+reversed hand with middle finger extended,0,🖕
+no entry,0,⛔
+no entry sign,0,🚫
+no bicycles,0,🚳
+no smoking symbol,0,🚭
+do not litter symbol,0,🚯
+non potable water symbol,0,🚱
+no pedestrians,0,🚷
+no mobile phones,0,📵
+no one under eighteen symbol,0,🔞
+radioactive sign,0,☢️
+reversed hand with middle finger extended,0,🖕
+biohazard sign,0,☣️
+upwards black arrow,0.5,⬆️
+north east arrow,0.5,↗️
+black rightwards arrow,0.5,➡️
+south east arrow,0.5,↘️
+downwards black arrow,0.5,⬇️
+south west arrow,0.5,↙️
+leftwards black arrow,0.5,⬅️
+north west arrow,0.5,↖️
+up down arrow,0.5,↕️
+reversed hand with middle finger extended,0,🖕
+left right arrow,0.5,↔️
+leftwards arrow with hook,0.5,↩️
+rightwards arrow with hook,0.5,↪️
+arrow pointing rightwards then curving upwards,0.5,⤴️
+arrow pointing rightwards then curving downwards,0.5,⤵️
+clockwise downwards and upwards open circle arrows,0.5,🔄
+anticlockwise downwards and upwards open circle arrows,0.5,🔃
+back with leftwards arrow above,0.5,🔙
+end with leftwards arrow above,0.5,🔚
+on with exclamation mark with left right arrow above,0.5,🔛
+reversed hand with middle finger extended,0,🖕
+soon with rightwards arrow above,0.5,🔜
+top with upwards arrow above,0.5,🔝
+place of worship,1,🛐
+atom symbol,1,⚛️
+om symbol,1,🕉️
+star of david,1,✡️
+wheel of dharma,1,☸️
+yin yang,1,☯️
+latin cross,1,✝️
+orthodox cross,1,☦️
+reversed hand with middle finger extended,0,🖕
+star and crescent,1,☪️
+peace symbol,1,☮️
+menorah with nine branches,1,🕎
+six pointed star with middle dot,1,🔯
+aries,0.5,♈
+taurus,0.5,♉
+gemini,0.5,♊
+cancer,0.5,♋
+leo,0.5,♌
+virgo,0.5,♍
+white down pointing backhand index,0.5,👇
+libra,0.5,♎
+scorpius,0.5,♏
+sagittarius,0.5,♐
+capricorn,0.5,♑
+aquarius,0.5,♒
+pisces,0.5,♓
+ophiuchus,0.5,⛎
+twisted rightwards arrows,0.5,🔀
+clockwise rightwards and leftwards open circle arrows,0.5,🔁
+clockwise rightwards and leftwards open circle arrows with circled one overlay,0.5,🔂
+white down pointing backhand index,0.5,👇
+black right pointing triangle,0.5,▶️
+black right pointing double triangle,0.5,⏩
+black right pointing double triangle with vertical bar,0.5,⏭️
+black right pointing triangle with double vertical bar,0.5,⏯️
+black left pointing triangle,0.5,◀️
+black left pointing double triangle,0.5,⏪
+black left pointing double triangle with vertical bar,0.5,⏮️
+up pointing small red triangle,0.5,🔼
+black up pointing double triangle,0.5,⏫
+down pointing small red triangle,0.5,🔽
+white down pointing backhand index,0.5,👇
+black down pointing double triangle,0.5,⏬
+double vertical bar,0.5,⏸️
+black square for stop,0.5,⏹️
+black circle for record,0.5,⏺️
+eject symbol,0.5,⏏️
+cinema,0.5,🎦
+low brightness symbol,0.5,🔅
+high brightness symbol,0.5,🔆
+antenna with bars,0.5,📶
+vibration mode,0.5,📳
+white down pointing backhand index,0.5,👇
+mobile phone off,0.5,📴
+permanent paper sign,0.5,📝
+black universal recycling symbol,0.75,♻️
+fleur de lis,0.75,⚜️
+trident emblem,0.75,🔱
+name badge,0.5,📛
+japanese symbol for beginner,0.5,🔰
+heavy large circle,0.5,⭕
+white heavy check mark,1,✅
+ballot box with check,1,☑️
+grinning face with one large and one small eye,1,🤪
+white down pointing backhand index,0.5,👇
+heavy check mark,1,✔️
+heavy multiplication x,0.5,✖️
+cross mark,0.5,❌
+negative squared cross mark,0.5,❎
+heavy plus sign,0.5,➕
+heavy minus sign,0.5,➖
+heavy division sign,0.5,➗
+curly loop,0.5,➰
+double curly loop,0.5,➿
+part alternation mark,0.5,〽️
+white down pointing backhand index,0.5,👇
+eight spoked asterisk,0.75,✳️
+eight pointed black star,0.75,✴️
+sparkle,0.75,❇️
+double exclamation mark,0.5,‼️
+exclamation question mark,0.5,⁉️
+black question mark ornament,0.5,❓
+white question mark ornament,0.5,❔
+white exclamation mark ornament,0.5,❕
+heavy exclamation mark symbol,0.5,❗
+wavy dash,0.5,〰️
+white up pointing index,0.5,☝️
+trade mark sign,0.5,™️
+keycap ten,0.5,🔟
+input symbol for latin capital letters,0.5,🔠
+input symbol for latin small letters,0.5,🔡
+input symbol for numbers,0.5,🔢
+input symbol for symbols,0.5,🔣
+input symbol for latin letters,0.5,🔤
+negative squared latin capital letter a,0.5,🅰️
+negative squared ab,0.5,🆎
+negative squared latin capital letter b,0.5,🅱️
+white up pointing index,0.5,☝️
+squared cl,0.5,🆑
+squared cool,0.5,🆒
+squared free,0.5,🆓
+information source,0.5,ℹ️
+squared id,0.5,🆔
+circled latin capital letter m,0.5,Ⓜ️
+squared new,1,🆕
+squared ng,0.5,🆖
+negative squared latin capital letter o,0,🅾️
+squared ok,1,🆗
+white up pointing index,0.5,☝️
+negative squared latin capital letter p,0.5,🅿️
+squared sos,0,🆘
+squared up with exclamation mark,0.75,🆙
+squared vs,0.5,🆚
+squared katakana koko,0.5,🈁
+squared katakana sa,0.5,🈂️
+squared cjk unified ideograph 6708,0.5,🈷️
+squared cjk unified ideograph 6709,0.5,🈶
+squared cjk unified ideograph 6307,0.5,🈯
+circled ideograph advantage,0.5,🉐
+white up pointing index,0.5,☝️
+squared cjk unified ideograph 5272,0.5,🈹
+squared cjk unified ideograph 7121,0.5,🈚
+squared cjk unified ideograph 7981,0.5,🈲
+circled ideograph accept,0.5,🉑
+squared cjk unified ideograph 7533,0.5,🈸
+squared cjk unified ideograph 5408,0.5,🈴
+squared cjk unified ideograph 7a7a,0.5,🈳
+circled ideograph congratulation,0.5,㊗️
+circled ideograph secret,0.5,㊙️
+squared cjk unified ideograph 55b6,0.5,🈺
+white up pointing index,0.5,☝️
+squared cjk unified ideograph 6e80,0.5,🈵
+large red circle,0.5,🔴
+large blue circle,0.5,🔵
+medium black circle,0.5,⚫
+medium white circle,0.5,⚪
+black large square,0.5,⬛
+white large square,0.5,⬜
+black medium square,0.5,◼️
+white medium square,0.5,◻️
+black small square,0.5,◾
+white up pointing index,0.5,☝️
+white small square,0.5,◽
+large orange diamond,0.5,🔶
+large blue diamond,0.5,🔷
+small orange diamond,0.5,🔸
+small blue diamond,0.5,🔹
+up pointing red triangle,0.5,🔺
+down pointing red triangle,0.5,🔻
+diamond shape with a dot inside,0.5,💠
+radio button,0.5,🔘
+white square button,0.5,🔳
+thumbs up sign,1,👍
+black square button,0.5,🔲
+chequered flag,0.5,🏁
+triangular flag on post,0.5,🚩
+crossed flags,0.5,🎌
+waving black flag,0.5,🏴
+waving white flag,0.5,🏳️
+rainbow flag,1,🏳️‍🌈
+pirate flag,0.25,🏴‍☠️
+flag for ascension island,1,🇦🇨
+flag for andorra,1,🇦🇩
+thumbs up sign,1,👍
+flag for united arab emirates,1,🇦🇪
+flag for afghanistan,1,🇦🇫
+flag for antigua barbuda,1,🇦🇬
+flag for anguilla,1,🇦🇮
+flag for albania,1,🇦🇱
+flag for armenia,1,🇦🇲
+flag for angola,1,🇦🇴
+flag for antarctica,1,🇦🇶
+flag for argentina,1,🇦🇷
+flag for american samoa,1,🇦🇸
+face with stuck out tongue and tightly closed eyes,1,😝
+thumbs up sign,1,👍
+flag for austria,1,🇦🇹
+flag for australia,1,🇦🇺
+flag for aruba,1,🇦🇼
+flag for aland islands,1,🇦🇽
+flag for azerbaijan,1,🇦🇿
+flag for bosnia herzegovina,1,🇧🇦
+flag for barbados,1,🇧🇧
+flag for bangladesh,1,🇧🇩
+flag for belgium,1,🇧🇪
+flag for burkina faso,1,🇧🇫
+thumbs up sign,1,👍
+flag for bulgaria,1,🇧🇬
+flag for bahrain,1,🇧🇭
+flag for burundi,1,🇧🇮
+flag for benin,1,🇧🇯
+flag for st barthelemy,1,🇧🇱
+flag for bermuda,1,🇧🇲
+flag for brunei,1,🇧🇳
+flag for bolivia,1,🇧🇴
+flag for caribbean netherlands,1,🇧🇶
+flag for brazil,1,🇧🇷
+thumbs up sign,1,👍
+flag for bahamas,1,🇧🇸
+flag for bhutan,1,🇧🇹
+flag for bouvet island,1,🇧🇻
+flag for botswana,1,🇧🇼
+flag for belarus,1,🇧🇾
+flag for belize,1,🇧🇿
+flag for canada,1,🇨🇦
+flag for cocos islands,1,🇨🇨
+flag for congo kinshasa,1,🇨🇩
+flag for central african republic,1,🇨🇫
+thumbs up sign,1,👍
+flag for congo brazzaville,1,🇨🇬
+flag for switzerland,1,🇨🇭
+flag for cote divoire,1,🇨🇮
+flag for cook islands,1,🇨🇰
+flag for chile,1,🇨🇱
+flag for cameroon,1,🇨🇲
+flag for china,1,🇨🇳
+flag for colombia,1,🇨🇴
+flag for clipperton island,1,🇨🇵
+flag for costa rica,1,🇨🇷
+thumbs down sign,0,👎
+flag for cuba,1,🇨🇺
+flag for cape verde,1,🇨🇻
+flag for curacao,1,🇨🇼
+flag for christmas island,1,🇨🇽
+flag for cyprus,1,🇨🇾
+flag for czech republic,1,🇨🇿
+flag for germany,1,🇩🇪
+flag for diego garcia,1,🇩🇬
+flag for djibouti,1,🇩🇯
+flag for denmark,1,🇩🇰
+thumbs down sign,0,👎
+flag for dominica,1,🇩🇲
+flag for dominican republic,1,🇩🇴
+flag for algeria,1,🇩🇿
+flag for ceuta melilla,1,🇪🇦
+flag for ecuador,1,🇪🇨
+flag for estonia,1,🇪🇪
+flag for egypt,1,🇪🇬
+flag for western sahara,1,🇪🇭
+flag for eritrea,1,🇪🇷
+flag for spain,1,🇪🇸
+thumbs down sign,0,👎
+flag for ethiopia,1,🇪🇹
+flag for european union,1,🇪🇺
+flag for finland,1,🇫🇮
+flag for fiji,1,🇫🇯
+flag for falkland islands,1,🇫🇰
+flag for micronesia,1,🇫🇲
+flag for faroe islands,1,🇫🇴
+flag for france,1,🇫🇷
+flag for gabon,1,🇬🇦
+flag for united kingdom,1,🇬🇧
+thumbs down sign,0,👎
+flag for grenada,1,🇬🇩
+flag for georgia,1,🇬🇪
+flag for french guiana,1,🇬🇫
+flag for guernsey,1,🇬🇬
+flag for ghana,1,🇬🇭
+flag for gibraltar,1,🇬🇮
+flag for greenland,1,🇬🇱
+flag for gambia,1,🇬🇲
+flag for guinea,1,🇬🇳
+flag for guadeloupe,1,🇬🇵
+thumbs down sign,0,👎
+flag for equatorial guinea,1,🇬🇶
+flag for greece,1,🇬🇷
+flag for south georgia south sandwich islands,1,🇬🇸
+flag for guatemala,1,🇬🇹
+flag for guam,1,🇬🇺
+flag for guinea bissau,1,🇬🇼
+flag for guyana,1,🇬🇾
+flag for hong kong,1,🇭🇰
+flag for heard mcdonald islands,1,🇭🇲
+flag for honduras,1,🇭🇳
+thumbs down sign,0,👎
+flag for croatia,1,🇭🇷
+flag for haiti,1,🇭🇹
+flag for hungary,1,🇭🇺
+flag for canary islands,1,🇮🇨
+flag for indonesia,1,🇮🇩
+flag for ireland,1,🇮🇪
+flag for israel,1,🇮🇱
+flag for isle of man,1,🇮🇲
+flag for india,1,🇮🇳
+flag for british indian ocean territory,1,🇮🇴
+money mouth face,1,🤑
+raised fist,0.5,✊
+flag for iraq,1,🇮🇶
+flag for iran,1,🇮🇷
+flag for iceland,1,🇮🇸
+flag for italy,1,🇮🇹
+flag for jersey,1,🇯🇪
+flag for jamaica,1,🇯🇲
+flag for jordan,1,🇯🇴
+flag for japan,1,🇯🇵
+flag for kenya,1,🇰🇪
+flag for kyrgyzstan,1,🇰🇬
+raised fist,0.5,✊
+flag for cambodia,1,🇰🇭
+flag for kiribati,1,🇰🇮
+flag for comoros,1,🇰🇲
+flag for st kitts nevis,1,🇰🇳
+flag for north korea,1,🇰🇵
+flag for south korea,1,🇰🇷
+flag for kuwait,1,🇰🇼
+flag for cayman islands,1,🇰🇾
+flag for kazakhstan,1,🇰🇿
+flag for laos,1,🇱🇦
+raised fist,0.5,✊
+flag for lebanon,1,🇱🇧
+flag for st lucia,1,🇱🇨
+flag for liechtenstein,1,🇱🇮
+flag for sri lanka,1,🇱🇰
+flag for liberia,1,🇱🇷
+flag for lesotho,1,🇱🇸
+flag for lithuania,1,🇱🇹
+flag for luxembourg,1,🇱🇺
+flag for latvia,1,🇱🇻
+flag for libya,1,🇱🇾
+raised fist,0.5,✊
+flag for morocco,1,🇲🇦
+flag for monaco,1,🇲🇨
+flag for moldova,1,🇲🇩
+flag for montenegro,1,🇲🇪
+flag for st martin,1,🇲🇫
+flag for madagascar,1,🇲🇬
+flag for marshall islands,1,🇲🇭
+flag for macedonia,1,🇲🇰
+flag for mali,1,🇲🇱
+flag for myanmar,1,🇲🇲
+raised fist,0.5,✊
+flag for mongolia,1,🇲🇳
+flag for macau,1,🇲🇴
+flag for northern mariana islands,1,🇲🇵
+flag for martinique,1,🇲🇶
+flag for mauritania,1,🇲🇷
+flag for montserrat,1,🇲🇸
+flag for malta,1,🇲🇹
+flag for mauritius,1,🇲🇺
+flag for maldives,1,🇲🇻
+flag for malawi,1,🇲🇼
+raised fist,0.5,✊
+flag for mexico,1,🇲🇽
+flag for malaysia,1,🇲🇾
+flag for mozambique,1,🇲🇿
+flag for namibia,1,🇳🇦
+flag for new caledonia,1,🇳🇨
+flag for niger,1,🇳🇪
+flag for norfolk island,1,🇳🇫
+flag for nigeria,1,🇳🇬
+flag for nicaragua,1,🇳🇮
+flag for netherlands,1,🇳🇱
+fisted hand sign,0.25,✊
+flag for norway,1,🇳🇴
+flag for nepal,1,🇳🇵
+flag for nauru,1,🇳🇷
+flag for niue,1,🇳🇺
+flag for new zealand,1,🇳🇿
+flag for oman,1,🇴🇲
+flag for panama,1,🇵🇦
+flag for peru,1,🇵🇪
+flag for french polynesia,1,🇵🇫
+flag for papua new guinea,1,🇵🇬
+fisted hand sign,0.25,✊
+flag for philippines,1,🇵🇭
+flag for pakistan,1,🇵🇰
+flag for poland,1,🇵🇱
+flag for st pierre miquelon,1,🇵🇲
+flag for pitcairn islands,1,🇵🇳
+flag for puerto rico,1,🇵🇷
+flag for palestinian territories,1,🇵🇸
+flag for portugal,1,🇵🇹
+flag for palau,1,🇵🇼
+flag for paraguay,1,🇵🇾
+fisted hand sign,0.25,✊
+flag for qatar,1,🇶🇦
+flag for reunion,1,🇷🇪
+flag for romania,1,🇷🇴
+flag for serbia,1,🇷🇸
+flag for russia,1,🇷🇺
+flag for rwanda,1,🇷🇼
+flag for saudi arabia,1,🇸🇦
+flag for solomon islands,1,🇸🇧
+flag for seychelles,1,🇸🇨
+flag for sudan,1,🇸🇩
+fisted hand sign,0.25,✊
+flag for sweden,1,🇸🇪
+flag for singapore,1,🇸🇬
+flag for st helena,1,🇸🇭
+flag for slovenia,1,🇸🇮
+flag for svalbard jan mayen,1,🇸🇯
+flag for slovakia,1,🇸🇰
+flag for sierra leone,1,🇸🇱
+flag for san marino,1,🇸🇲
+flag for senegal,1,🇸🇳
+flag for somalia,1,🇸🇴
+hugging face,1,🤗
+fisted hand sign,1,✊
+flag for suriname,1,🇸🇷
+flag for south sudan,1,🇸🇸
+flag for sao tome principe,1,🇸🇹
+flag for el salvador,1,🇸🇻
+flag for sint maarten,1,🇸🇽
+flag for syria,1,🇸🇾
+flag for swaziland,1,🇸🇿
+flag for tristan da cunha,1,🇹🇦
+flag for turks caicos islands,1,🇹🇨
+flag for chad,1,🇹🇩
+fisted hand sign,0.25,✊
+flag for french southern territories,1,🇹🇫
+flag for togo,1,🇹🇬
+flag for thailand,1,🇹🇭
+flag for tajikistan,1,🇹🇯
+flag for tokelau,1,🇹🇰
+flag for timor leste,1,🇹🇱
+flag for turkmenistan,1,🇹🇲
+flag for tunisia,1,🇹🇳
+flag for tonga,1,🇹🇴
+flag for turkey,1,🇹🇷
+left facing fist,0.25,🤛
+flag for trinidad tobago,1,🇹🇹
+flag for tuvalu,1,🇹🇻
+flag for taiwan,1,🇹🇼
+flag for tanzania,1,🇹🇿
+flag for ukraine,1,🇺🇦
+flag for uganda,1,🇺🇬
+flag for us outlying islands,1,🇺🇲
+flag for united nations,1,🇺🇳
+flag for united states,1,🇺🇸
+flag for uruguay,1,🇺🇾
+left facing fist,0.25,🤛
+flag for uzbekistan,1,🇺🇿
+flag for vatican city,1,🇻🇦
+flag for st vincent grenadines,1,🇻🇨
+flag for venezuela,1,🇻🇪
+flag for british virgin islands,1,🇻🇬
+flag for us virgin islands,1,🇻🇮
+flag for vietnam,1,🇻🇳
+flag for vanuatu,1,🇻🇺
+flag for wallis futuna,1,🇼🇫
+flag for samoa,1,🇼🇸
+left facing fist,0.25,🤛
+flag for kosovo,1,🇽🇰
+flag for yemen,1,🇾🇪
+flag for mayotte,1,🇾🇹
+flag for south africa,1,🇿🇦
+flag for zambia,1,🇿🇲
+flag for zimbabwe,1,🇿🇼
+flag for england,1,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+flag for scotland,1,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+flag for wales,1,🏴󠁧󠁢󠁷󠁬󠁳󠁿
+left facing fist,0.25,👊
+left facing fist,0.25,👊
+left facing fist,0.25,👊
+right facing fist,0.25,🤜
+right facing fist,0.25,🤜
+smiling face with smiling eyes and hand covering mouth,0.75,🤭
+right facing fist,0.25,🤜
+right facing fist,0.25,🤜
+right facing fist,0.25,🤜
+right facing fist,0.25,🤜
+clapping hands sign,1,👏
+clapping hands sign,1,👏
+clapping hands sign,1,👏
+clapping hands sign,1,👏
+clapping hands sign,1,👏
+clapping hands sign,1,👏
+face with finger covering closed lips,0.5,🤫
+person raising both hands in celebration,1,🙌
+person raising both hands in celebration,1,🙌
+person raising both hands in celebration,1,🙌
+person raising both hands in celebration,1,🙌
+person raising both hands in celebration,1,🙌
+person raising both hands in celebration,1,🙌
+open hands sign,0.5,👐
+open hands sign,0.5,👐
+open hands sign,0.5,👐
+open hands sign,0.5,👐
+grinning face with smiling eyes,1,😁
+thinking face,0.5,🤔
+open hands sign,0.5,👐
+open hands sign,0.5,👐
+palms up together,0.75,🤲
+palms up together,0.75,🤲
+palms up together,0.75,🤲
+palms up together,0.75,🤲
+palms up together,0.75,🤲
+palms up together,0.75,🤲
+handshake,1,🤝
+person with folded hands,0.75,🙏
+zipper mouth face,0.25,🤐
+person with folded hands,0.75,🙏
+person with folded hands,0.75,🙏
+person with folded hands,0.75,🙏
+person with folded hands,0.75,🙏
+person with folded hands,0.75,🙏
+writing hand,0.5,✍️
+writing hand,0.5,✍🏻
+writing hand,0.5,✍🏼
+writing hand,0.5,✍🏽
+writing hand,0.5,✍🏾
+face with one eyebrow raised,0.25,🤨
+writing hand,0.5,✍🏿
+nail polish,0.75,💅
+nail polish,0.75,💅🏻
+nail polish,0.75,💅🏼
+nail polish,0.75,💅🏽
+nail polish,0.75,💅🏾
+nail polish,0.75,💅🏿
+selfie,0.5,🤳
+selfie,0.5,🤳🏻
+selfie,0.5,🤳🏼
+neutral face,0.5,😐
+selfie,0.5,🤳🏽
+selfie,0.5,🤳🏾
+selfie,0.5,🤳🏿
+flexed biceps,1,💪
+flexed biceps,1,💪🏻
+flexed biceps,1,💪🏼
+flexed biceps,1,💪🏽
+flexed biceps,1,💪🏾
+flexed biceps,1,💪🏿
+leg,0.5,🦵
+expressionless face,0.5,😑
+leg,0.5,🦵🏻
+leg,0.5,🦵🏼
+leg,0.5,🦵🏽
+leg,0.5,🦵🏾
+leg,0.5,🦵🏿
+foot,0.5,🦶
+foot,0.5,🦶🏻
+foot,0.5,🦶🏼
+foot,0.5,🦶🏽
+foot,0.5,🦶🏾
+face without mouth,0.5,😶
+foot,0.5,🦶🏿
+ear,0.5,👂
+ear,0.5,👂🏻
+ear,0.5,👂🏼
+ear,0.5,👂🏽
+ear,0.5,👂🏾
+ear,0.5,👂🏿
+nose,0.5,👃
+nose,0.5,👃🏻
+nose,0.5,👃🏼
+smirking face,0.75,😏
+nose,0.5,👃🏽
+nose,0.5,👃🏾
+nose,0.5,👃🏿
+brain,0.75,🧠
+tooth,0.5,🦷
+bone,0.5,🦴
+eyes,0.5,👀
+eye,0.5,👁️
+tongue,0.5,👅
+mouth,0.5,👄
+unamused face,0.25,😒
+baby,0.75,👶
+baby,0.75,👶🏻
+baby,0.75,👶🏼
+baby,0.75,👶🏽
+baby,0.75,👶🏾
+baby,0.75,👶🏿
+child,0.75,🧒
+child,0.75,🧒🏻
+child,0.75,🧒🏼
+child,0.75,🧒🏽
+face with rolling eyes,0.5,🙄
+child,0.75,🧒🏾
+child,0.75,🧒🏿
+boy,0.75,👦
+boy,0.75,👦🏻
+boy,0.75,👦🏼
+boy,0.75,👦🏽
+boy,0.75,👦🏾
+boy,0.75,👦🏿
+girl,0.75,👧
+girl,0.75,👧🏻
+grimacing face,0.5,😬
+girl,0.75,👧🏼
+girl,0.75,👧🏽
+girl,0.75,👧🏾
+girl,0.75,👧🏿
+adult,0.5,🧑
+adult,0.5,🧑🏻
+adult,0.5,🧑🏼
+adult,0.5,🧑🏽
+adult,0.5,🧑🏾
+adult,0.5,🧑🏿
+smiling face with open mouth and tightly closed eyes,1,😆
+lying face,0,🤥
+person with blond hair,0.5,👱
+person with blond hair,0.5,👱🏻
+person with blond hair,0.5,👱🏼
+person with blond hair,0.5,👱🏽
+person with blond hair,0.5,👱🏾
+person with blond hair,0.5,👱🏿
+man,0.5,👨
+man,0.5,👨🏻
+man,0.5,👨🏼
+man,0.5,👨🏽
+relieved face,1,😌
+man,0.5,👨🏾
+man,0.5,👨🏿
+bearded person,0.5,🧔
+bearded person,0.5,🧔🏻
+bearded person,0.5,🧔🏼
+bearded person,0.5,🧔🏽
+bearded person,0.5,🧔🏾
+bearded person,0.5,🧔🏿
+blond man,0.5,👱‍♂️
+blond man type 1 2,0.5,👱🏻‍♂️
+pensive face,0,😔
+blond man type 3,0.5,👱🏼‍♂️
+blond man type 4,0.5,👱🏽‍♂️
+blond man type 5,0.5,👱🏾‍♂️
+blond man type 6,0.5,👱🏿‍♂️
+man red haired,0.5,👨‍🦰
+man red haired light skin tone,0.5,👨🏻‍🦰
+man red haired medium light skin tone,0.5,👨🏼‍🦰
+man red haired medium skin tone,0.5,👨🏽‍🦰
+man red haired dark skin tone,0.5,👨🏾‍🦰
+man red haired medium dark skin tone,0.5,👨🏿‍🦰
+sleepy face,0.25,😪
+man curly haired,0.5,👨‍🦱
+man curly haired light skin tone,0.5,👨🏻‍🦱
+man curly haired medium light skin tone,0.5,👨🏼‍🦱
+man curly haired medium skin tone,0.5,👨🏽‍🦱
+man curly haired medium dark skin tone,0.5,👨🏾‍🦱
+man curly haired dark skin tone,0.5,👨🏿‍🦱
+man white haired,0.5,👨‍🦳
+man white haired light skin tone,0.5,👨🏻‍🦳
+man white haired medium light skin tone,0.5,👨🏼‍🦳
+man white haired medium skin tone,0.5,👨🏽‍🦳
+drooling face,1,🤤
+man white haired medium dark skin tone,0.5,👨🏾‍🦳
+man white haired dark skin tone,0.5,👨🏿‍🦳
+man bald,0.5,👨‍🦲
+man bald light skin tone,0.5,👨🏻‍🦲
+man bald medium light skin tone,0.5,👨🏼‍🦲
+man bald medium skin tone,0.5,👨🏽‍🦲
+man bald medium dark skin tone,0.5,👨🏾‍🦲
+man bald dark skin tone,0.5,👨🏿‍🦲
+woman,0.5,👩
+woman,0.5,👩🏻
+sleeping face,0.75,😴
+woman,0.5,👩🏼
+woman,0.5,👩🏽
+woman,0.5,👩🏾
+woman,0.5,👩🏿
+blonde woman,0.5,👱‍♀️
+blonde woman type 1 2,0.5,👱🏻‍♀️
+blonde woman type 3,0.5,👱🏼‍♀️
+blonde woman type 4,0.5,👱🏽‍♀️
+blonde woman type 5,0.5,👱🏾‍♀️
+blonde woman type 6,0.5,👱🏿‍♀️
+face with medical mask,0.25,😷
+woman red haired,0.5,👩‍🦰
+woman red haired light skin tone,0.5,👩🏻‍🦰
+woman red haired medium light skin tone,0.5,👩🏼‍🦰
+woman red haired medium skin tone,0.5,👩🏽‍🦰
+woman red haired medium dark skin tone,0.5,👩🏾‍🦰
+woman red haired dark skin tone,0.5,👩🏿‍🦰
+woman curly haired,0.5,👩‍🦱
+woman curly haired light skin tone,0.5,👩🏻‍🦱
+woman curly haired medium light skin tone,0.5,👩🏼‍🦱
+woman curly haired medium skin tone,0.5,👩🏽‍🦱
+face with thermometer,0,🤒
+woman curly haired medium dark skin tone,0.5,👩🏾‍🦱
+woman curly haired dark skin tone,0.5,👩🏿‍🦱
+woman white haired,0.5,👩‍🦳
+woman white haired light skin tone,0.5,👩🏻‍🦳
+woman white haired medium light skin tone,0.5,👩🏼‍🦳
+woman white haired medium skin tone,0.5,👩🏽‍🦳
+woman white haired medium dark skin tone,0.5,👩🏾‍🦳
+woman white haired dark skin tone,0.5,👩🏿‍🦳
+woman bald,0.5,👩‍🦲
+woman bald light skin tone,0.5,👩🏻‍🦲
+face with head bandage,0,🤕
+woman bald medium light skin tone,0.5,👩🏼‍🦲
+woman bald medium skin tone,0.5,👩🏽‍🦲
+woman bald medium dark skin tone,0.5,👩🏾‍🦲
+woman bald dark skin tone,0.5,👩🏿‍🦲
+older adult,0.5,🧓
+older adult,0.5,🧓🏻
+older adult,0.5,🧓🏼
+older adult,0.5,🧓🏽
+older adult,0.5,🧓🏾
+older adult,0.5,🧓🏿
+nauseated face,0,🤢
+older man,0.5,👴
+older man,0.5,👴🏻
+older man,0.5,👴🏼
+older man,0.5,👴🏽
+older man,0.5,👴🏾
+older man,0.5,👴🏿
+older woman,0.5,👵
+older woman,0.5,👵🏻
+older woman,0.5,👵🏼
+older woman,0.5,👵🏽
+smiling face with open mouth and cold sweat,1,😅
+face with open mouth vomiting,0,🤮
+older woman,0.5,👵🏾
+older woman,0.5,👵🏿
+person frowning,0.25,🙍
+person frowning,0.25,🙍🏻
+person frowning,0.25,🙍🏼
+person frowning,0.25,🙍🏽
+person frowning,0.25,🙍🏾
+person frowning,0.25,🙍🏿
+man frowning,0.25,🙍‍♂️
+man frowning type 1 2,0.25,🙍🏻‍♂️
+sneezing face,0.25,🤧
+man frowning type 3,0.25,🙍🏼‍♂️
+man frowning type 4,0.25,🙍🏽‍♂️
+man frowning type 6,0.25,🙍🏾‍♂️
+man frowning type 5,0.25,🙍🏿‍♂️
+woman frowning,0.25,🙍‍♀️
+woman frowning type 1 2,0.25,🙍🏻‍♀️
+woman frowning type 3,0.25,🙍🏼‍♀️
+woman frowning type 4,0.25,🙍🏽‍♀️
+woman frowning type 5,0.25,🙍🏾‍♀️
+woman frowning type 6,0.25,🙍🏿‍♀️
+overheated face,0.5,🥵
+person with pouting face,0.5,🙎
+person with pouting face,0.5,🙎🏻
+person with pouting face,0.5,🙎🏼
+person with pouting face,0.5,🙎🏽
+person with pouting face,0.5,🙎🏾
+person with pouting face,0.5,🙎🏿
+man pouting,0.5,👨‍🦹
+man pouting type 1 2,0.5,👨🏻‍🦹
+man pouting type 3,0.5,👨🏼‍🦹
+man pouting type 4,0.5,👨🏽‍🦹
+freezing face,0.25,🥶
+man pouting type 5,0.5,👨🏾‍🦹
+man pouting type 6,0.5,👨🏿‍🦹
+woman pouting,0.5,👩‍🦹
+woman pouting type 1 2,0.5,👩🏻‍🦹
+woman pouting type 3,0.5,👩🏼‍🦹
+woman pouting type 4,0.5,👩🏽‍🦹
+woman pouting type 5,0.5,👩🏾‍🦹
+woman pouting type 6,0.5,👩🏿‍🦹
+face with no good gesture,0.25,🙅
+face with no good gesture,0.25,🙅🏻
+face with uneven eyes and wavy mouth,0.25,🥴
+face with no good gesture,0.25,🙅🏼
+face with no good gesture,0.25,🙅🏽
+face with no good gesture,0.25,🙅🏾
+face with no good gesture,0.25,🙅🏿
+man gesturing not ok,0.25,🙅‍♂️
+man gesturing not ok type 1 2,0.25,🙅🏻‍♂️
+man gesturing not ok type 3,0.25,🙅🏼‍♂️
+man gesturing not ok type 4,0.25,🙅🏽‍♂️
+man gesturing not ok type 5,0.25,🙅🏾‍♂️
+man gesturing not ok type 6,0.25,🙅🏿‍♂️
+dizzy face,0.25,😵
+woman gesturing not ok,0.25,🙅‍♀️
+woman gesturing not ok type 1 2,0.25,🙅🏻‍♀️
+woman gesturing not ok type 3,0.25,🙅🏼‍♀️
+woman gesturing not ok type 4,0.25,🙅🏽‍♀️
+woman gesturing not ok type 5,0.25,🙅🏾‍♀️
+woman gesturing not ok type 6,0.25,🙅🏿‍♀️
+face with ok gesture,0.75,👌
+face with ok gesture,0.75,👌🏻
+face with ok gesture,0.75,👌🏼
+face with ok gesture,0.75,👌🏽
+shocked face with exploding head,0.75,🤯
+face with ok gesture,0.75,👌🏾
+face with ok gesture,0.75,👌🏿
+man gesturing ok,0.75,🙆‍♂️
+man gesturing ok type 1 2,0.75,🙆🏻‍♂️
+man gesturing ok type 3,0.75,🙆🏼‍♂️
+man gesturing ok type 4,0.75,🙆🏽‍♂️
+man gesturing ok type 5,0.75,🙆🏾‍♂️
+man gesturing ok type 6,0.75,🙆🏿‍♂️
+woman gesturing ok,0.75,🙆‍♀️
+woman gesturing ok type 1 2,0.75,🙆🏻‍♀️
+face with cowboy hat,0.5,🤠
+woman gesturing ok type 3,0.75,🙆🏼‍♀️
+woman gesturing ok type 4,0.75,🙆🏽‍♀️
+woman gesturing ok type 5,0.75,🙆🏾‍♀️
+woman gesturing ok type 6,0.75,🙆🏿‍♀️
+information desk person,0.5,💁
+information desk person,0.5,💁🏻
+information desk person,0.5,💁🏼
+information desk person,0.5,💁🏽
+information desk person,0.5,💁🏾
+information desk person,0.5,💁🏿
+face with party horn and party hat,1,🥳
+man tipping hand,0.5,💁‍♂️
+man tipping hand type 1 2,0.5,💁🏻‍♂️
+man tipping hand type 3,0.5,💁🏼‍♂️
+man tipping hand type 4,0.5,💁🏽‍♂️
+man tipping hand type 5,0.5,💁🏾‍♂️
+man tipping hand type 6,0.5,💁🏿‍♂️
+woman tipping hand,0.5,💁‍♀️
+woman tipping hand type 1 2,0.5,💁🏻‍♀️
+woman tipping hand type 3,0.5,💁🏼‍♀️
+woman tipping hand type 4,0.5,💁🏽‍♀️
+smiling face with sunglasses,1,😎
+woman tipping hand type 5,0.5,💁🏾‍♀️
+woman tipping hand type 6,0.5,💁🏿‍♀️
+man raising hand,0.5,🙋‍♂️
+man raising hand type 1 2,0.5,🙋🏻‍♂️
+man raising hand type 3,0.5,🙋🏼‍♂️
+man raising hand type 4,0.5,🙋🏽‍♂️
+man raising hand type 5,0.5,🙋🏾‍♂️
+man raising hand type 6,0.5,🙋🏿‍♂️
+happy person raising one hand,0.75,🙋
+happy person raising one hand,0.75,🙋🏻
+rolling on the floor laughing,1,🤣
+nerd face,0.5,🤓
+happy person raising one hand,0.75,🙋🏼
+happy person raising one hand,0.75,🙋🏽
+happy person raising one hand,0.75,🙋🏾
+happy person raising one hand,0.75,🙋🏿
+woman raising hand,0.75,🙋‍♀️
+woman raising hand type 1 2,0.75,🙋🏻‍♀️
+woman raising hand type 3,0.75,🙋🏼‍♀️
+woman raising hand type 4,0.75,🙋🏽‍♀️
+woman raising hand type 5,0.75,🙋🏾‍♀️
+woman raising hand type 6,0.75,🙋🏿‍♀️
+face with monocle,0.5,🧐
+person bowing deeply,0.75,🙇
+person bowing deeply,0.75,🙇🏻
+person bowing deeply,0.75,🙇🏼
+person bowing deeply,0.75,🙇🏽
+person bowing deeply,0.75,🙇🏾
+person bowing deeply,0.75,🙇🏿
+man bowing deeply,0.75,🙇‍♂️
+man bowing deeply type 1 2,0.75,🙇🏻‍♂️
+man bowing deeply type 3,0.75,🙇🏼‍♂️
+man bowing deeply type 4,0.75,🙇🏽‍♂️
+confused face,0.25,😕
+man bowing deeply type 5,0.75,🙇🏾‍♂️
+man bowing deeply type 6,0.75,🙇🏿‍♂️
+woman bowing deeply,0.75,🙇‍♀️
+woman bowing deeply type 1 2,0.75,🙇🏻‍♀️
+woman bowing deeply type 3,0.75,🙇🏼‍♀️
+woman bowing deeply type 4,0.75,🙇🏽‍♀️
+woman bowing deeply type 5,0.75,🙇🏾‍♀️
+woman bowing deeply type 6,0.75,🙇🏿‍♀️
+face palm,0.25,🤦
+face palm,0.25,🤦🏻
+worried face,0,😟
+face palm,0.25,🤦🏼
+face palm,0.25,🤦🏽
+face palm,0.25,🤦🏾
+face palm,0.25,🤦🏿
+man facepalming,0.25,🤦‍♂️
+man facepalming type 1 2,0.25,🤦🏻‍♂️
+man facepalming type 3,0.25,🤦🏼‍♂️
+man facepalming type 4,0.25,🤦🏽‍♂️
+man facepalming type 5,0.25,🤦🏾‍♂️
+man facepalming type 6,0.25,🤦🏿‍♂️
+slightly frowning face,0.25,🙁
+woman facepalming,0.25,🤦‍♀️
+woman facepalming type 1 2,0.25,🤦🏻‍♀️
+woman facepalming type 3,0.25,🤦🏼‍♀️
+woman facepalming type 4,0.25,🤦🏽‍♀️
+woman facepalming type 5,0.25,🤦🏾‍♀️
+woman facepalming type 6,0.25,🤦🏿‍♀️
+shrug,0.25,🤷
+shrug,0.25,🤷🏻
+shrug,0.25,🤷🏼
+shrug,0.25,🤷🏽
+white frowning face,0.25,☹️
+shrug,0.25,🤷🏾
+shrug,0.25,🤷🏿
+man shrugging,0.25,🤷‍♂️
+man shrugging type 1 2,0.25,🤷🏻‍♂️
+man shrugging type 3,0.25,🤷🏼‍♂️
+man shrugging type 4,0.25,🤷🏽‍♂️
+man shrugging type 5,0.25,🤷🏾‍♂️
+man shrugging type 6,0.25,🤷🏿‍♂️
+woman shrugging,0.25,🤷‍♀️
+woman shrugging type 1 2,0.25,🤷🏻‍♀️
+face with open mouth,0.25,😮
+woman shrugging type 3,0.25,🤷🏼‍♀️
+woman shrugging type 4,0.25,🤷🏽‍♀️
+woman shrugging type 5,0.25,🤷🏾‍♀️
+woman shrugging type 6,0.25,🤷🏿‍♀️
+male health worker,0.5,👨‍⚕️
+male health worker type 1 2,0.5,👨🏻‍⚕️
+male health worker type 3,0.5,👨🏼‍⚕️
+male health worker type 4,0.5,👨🏽‍⚕️
+male health worker type 5,0.5,👨🏾‍⚕️
+male health worker type 6,0.5,👨🏿‍⚕️
+hushed face,0.25,😯
+female health worker,0.5,👩‍⚕️
+female health worker type 1 2,0.5,👩🏻‍⚕️
+female health worker type 3,0.5,👩🏼‍⚕️
+female health worker type 4,0.5,👩🏽‍⚕️
+female health worker type 5,0.5,👩🏾‍⚕️
+male student,0.75,👨‍🎓
+male student type 1 2,0.75,👨🏻‍🎓
+male student type 3,0.75,👨🏼‍🎓
+male student type 4,0.75,👨🏽‍🎓
+male student type 5,0.75,👨🏾‍🎓
+astonished face,0.25,😲
+male student type 6,0.75,👨🏿‍🎓
+female student,0.75,👩‍🎓
+female student type 1 2,0.75,👩🏻‍🎓
+female student type 3,0.75,👩🏼‍🎓
+female student type 4,0.75,👩🏽‍🎓
+female student type 5,0.75,👩🏾‍🎓
+female student type 6,0.75,👩🏿‍🎓
+male teacher,0.5,👨‍🏫
+male teacher type 1 2,0.5,👨🏻‍🏫
+male teacher type 3,0.5,👨🏼‍🏫
+flushed face,0.5,😳
+male teacher type 4,0.5,👨🏽‍🏫
+male teacher type 5,0.5,👨🏾‍🏫
+male teacher type 6,0.5,👨🏿‍🏫
+female teacher,0.5,👩‍🏫
+female teacher type 1 2,0.5,👩🏻‍🏫
+female teacher type 3,0.5,👩🏼‍🏫
+female teacher type 4,0.5,👩🏽‍🏫
+female teacher type 5,0.5,👩🏾‍🏫
+female teacher type 6,0.5,👩🏿‍🏫
+male judge,0.5,👨‍⚖️
+face with tears of joy,1,😂
+face with pleading eyes,0.75,🥺
+male judge type 1 2,0.5,👨🏻‍⚖️
+male judge type 3,0.5,👨🏼‍⚖️
+male judge type 4,0.5,👨🏽‍⚖️
+male judge type 5,0.5,👨🏾‍⚖️
+male judge type 6,0.5,👨🏿‍⚖️
+female judge,0.5,👩‍⚖️
+female judge type 1 2,0.5,👩🏻‍⚖️
+female judge type 3,0.5,👩🏼‍⚖️
+female judge type 4,0.5,👩🏽‍⚖️
+female judge type 5,0.5,👩🏾‍⚖️
+frowning face with open mouth,0.25,😦
+female judge type 6,0.5,👩🏿‍⚖️
+male farmer,0.5,👨‍🌾
+male farmer type 1 2,0.5,👨🏻‍🌾
+male farmer type 3,0.5,👨🏼‍🌾
+male farmer type 4,0.5,👨🏽‍🌾
+male farmer type 5,0.5,👨🏾‍🌾
+male farmer type 6,0.5,👨🏿‍🌾
+female farmer,0.5,👩‍🌾
+female farmer type 1 2,0.5,👩🏻‍🌾
+female farmer type 3,0.25,👩🏼‍🌾
+anguished face,0.5,😨
+female farmer type 4,0.5,👩🏽‍🌾
+female farmer type 5,0.5,👩🏾‍🌾
+female farmer type 6,0.5,👩🏿‍🌾
+male cook,0.5,👨‍🍳
+male cook type 1 2,0.5,👨🏻‍🍳
+male cook type 3,0.5,👨🏼‍🍳
+male cook type 4,0.5,👨🏽‍🍳
+male cook type 5,0.5,👨🏾‍🍳
+male cook type 6,0.5,👨🏿‍🍳
+female cook,0.5,👩‍🍳
+fearful face,0,😱
+female cook type 1 2,0.5,👩🏻‍🍳
+female cook type 3,0.5,👩🏼‍🍳
+female cook type 4,0.5,👩🏽‍🍳
+female cook type 5,0.5,👩🏾‍🍳
+female cook type 6,0.5,👩🏿‍🍳
+male mechanic,0.5,👨‍🔧
+male mechanic type 1 2,0.5,👨🏻‍🔧
+male mechanic type 3,0.5,👨🏼‍🔧
+male mechanic type 4,0.5,👨🏽‍🔧
+male mechanic type 5,0.5,👨🏾‍🔧
+face with open mouth and cold sweat,0.25,😓
+male mechanic type 6,0.5,👨🏿‍🔧
+female mechanic,0.5,👩‍🔧
+female mechanic type 1 2,0.5,👩🏻‍🔧
+female mechanic type 3,0.5,👩🏼‍🔧
+female mechanic type 4,0.5,👩🏽‍🔧
+female mechanic type 5,0.5,👩🏾‍🔧
+female mechanic type 6,0.5,👩🏿‍🔧
+male factory worker,0.5,👨‍🏭
+male factory worker type 1 2,0.5,👨🏻‍🏭
+male factory worker type 3,0.5,👨🏼‍🏭
+disappointed but relieved face,0.25,😥
+male factory worker type 4,0.5,👨🏽‍🏭
+male factory worker type 5,0.5,👨🏾‍🏭
+male factory worker type 6,0.5,👨🏿‍🏭
+female factory worker,0.5,👩‍🏭
+female factory worker type 1 2,0.5,👩🏻‍🏭
+female factory worker type 3,0.5,👩🏼‍🏭
+female factory worker type 4,0.5,👩🏽‍🏭
+female factory worker type 5,0.5,👩🏾‍🏭
+female factory worker type 6,0.5,👩🏿‍🏭
+male office worker,0.5,👨‍💼
+crying face,0,😢
+male office worker type 1 2,0.5,👨🏻‍💼
+male office worker type 3,0.5,👨🏼‍💼
+male office worker type 4,0.5,👨🏽‍💼
+male office worker type 5,0.5,👨🏾‍💼
+male office worker type 6,0.5,👨🏿‍💼
+female office worker,0.5,👩‍💼
+female office worker type 1 2,0.5,👩🏻‍💼
+female office worker type 3,0.5,👩🏼‍💼
+female office worker type 4,0.5,👩🏽‍💼
+female office worker type 5,0.5,👩🏾‍💼
+loudly crying face,0.5,😭
+female office worker type 6,0.5,👩🏿‍💼
+male scientist,0.5,👨‍🔬
+male scientist type 1 2,0.5,👨🏻‍🔬
+male scientist type 3,0.5,👨🏼‍🔬
+male scientist type 4,0.5,👨🏽‍🔬
+male scientist type 5,0.5,👨🏾‍🔬
+male scientist type 6,0.5,👨🏿‍🔬
+female scientist,0.5,👩‍🔬
+female scientist type 1 2,0.5,👩🏻‍🔬
+female scientist type 3,0.5,👩🏼‍🔬
+face screaming in fear,0,😱
+female scientist type 4,0.5,👩🏽‍🔬
+female scientist type 5,0.5,👩🏾‍🔬
+female scientist type 6,0.5,👩🏿‍🔬
+male technologist,0.5,👨‍💻
+male technologist type 1 2,0.5,👨🏻‍💻
+male technologist type 3,0.5,👨🏼‍💻
+male technologist type 4,0.5,👨🏽‍💻
+male technologist type 5,0.5,👨🏾‍💻
+male technologist type 6,0.5,👨🏿‍💻
+female technologist,0.5,👩‍💻
+confounded face,0.25,😖
+female technologist type 1 2,0.5,👩🏻‍💻
+female technologist type 3,0.5,👩🏼‍💻
+female technologist type 4,0.5,👩🏽‍💻
+female technologist type 5,0.5,👩🏾‍💻
+female technologist type 6,0.5,👩🏿‍💻
+male singer,0.5,👨‍🎤
+male singer type 1 2,0.5,👨🏻‍🎤
+male singer type 3,0.5,👨🏼‍🎤
+male singer type 4,0.5,👨🏽‍🎤
+male singer type 5,0.5,👨🏾‍🎤
+slightly smiling face,0.75,🙂
+persevering face,0.25,😣
+male singer type 6,0.5,👨🏿‍🎤
+female singer,0.5,👩‍🎤
+female singer type 1 2,0.5,👩🏻‍🎤
+female singer type 3,0.5,👩🏼‍🎤
+female singer type 4,0.5,👩🏽‍🎤
+female singer type 5,0.5,👩🏾‍🎤
+female singer type 6,0.5,👩🏿‍🎤
+male artist,0.5,👨‍🎨
+male artist type 1 2,0.5,👨🏻‍🎨
+male artist type 3,0.5,👨🏼‍🎨
+disappointed face,0,😞
+male artist type 4,0.5,👨🏽‍🎨
+male artist type 5,0.5,👨🏾‍🎨
+male artist type 6,0.5,👨🏿‍🎨
+female artist,0.5,👩‍🎨
+female artist type 1 2,0.5,👩🏻‍🎨
+female artist type 3,0.5,👩🏼‍🎨
+female artist type 4,0.5,👩🏽‍🎨
+female artist type 5,0.5,👩🏾‍🎨
+female artist type 6,0.5,👩🏿‍🎨
+male pilot,0.5,👨‍✈️
+face with cold sweat,0.25,😓
+male pilot type 1 2,0.5,👨🏻‍✈️
+male pilot type 3,0.5,👨🏼‍✈️
+male pilot type 4,0.5,👨🏽‍✈️
+male pilot type 5,0.5,👨🏾‍✈️
+male pilot type 6,0.5,👨🏿‍✈️
+female pilot,0.5,👩‍✈️
+female pilot type 1 2,0.5,👩🏻‍✈️
+female pilot type 3,0.5,👩🏼‍✈️
+female pilot type 4,0.5,👩🏽‍✈️
+female pilot type 5,0.5,👩🏾‍✈️
+weary face,0.25,😩
+female pilot type 6,0.5,👩🏿‍✈️
+male astronaut,0.5,👨‍🚀
+male astronaut type 1 2,0.5,👨🏻‍🚀
+male astronaut type 3,0.5,👨🏼‍🚀
+male astronaut type 4,0.5,👨🏽‍🚀
+male astronaut type 5,0.5,👨🏾‍🚀
+male astronaut type 6,0.5,👨🏿‍🚀
+female astronaut,0.5,👩‍🚀
+female astronaut type 1 2,0.5,👩🏻‍🚀
+female astronaut type 3,0.5,👩🏼‍🚀
+tired face,0,😫
+female astronaut type 4,0.5,👩🏽‍🚀
+female astronaut type 5,0.5,👩🏾‍🚀
+female astronaut type 6,0.5,👩🏿‍🚀
+male firefighter,0.5,👨‍🚒
+male firefighter type 1 2,0.5,👨🏻‍🚒
+male firefighter type 3,0.5,👨🏼‍🚒
+male firefighter type 4,0.5,👨🏽‍🚒
+male firefighter type 5,0.5,👨🏾‍🚒
+male firefighter type 6,0.5,👨🏿‍🚒
+female firefighter,0.5,👩‍🚒
+face with look of triumph,0.5,😤
+female firefighter type 1 2,0.5,👩🏻‍🚒
+female firefighter type 3,0.5,👩🏼‍🚒
+female firefighter type 4,0.5,👩🏽‍🚒
+female firefighter type 5,0.5,👩🏾‍🚒
+female firefighter type 6,0.5,👩🏿‍🚒
+police officer,0.5,👮
+police officer,0.5,👮🏻
+police officer,0.5,👮🏼
+police officer,0.5,👮🏽
+police officer,0.5,👮🏾
+pouting face,0,😡
+police officer,0.5,👮🏿
+male police officer,0.5,👮‍♂️
+male police officer type 1 2,0.5,👮🏻‍♂️
+male police officer type 3,0.5,👮🏼‍♂️
+male police officer type 4,0.5,👮🏽‍♂️
+male police officer type 5,0.5,👮🏾‍♂️
+male police officer type 6,0.5,👮🏿‍♂️
+female police officer,0.5,👮‍♀️
+female police officer type 1 2,0.5,👮🏻‍♀️
+female police officer type 3,0.5,👮🏼‍♀️
+angry face,0,😠
+female police officer type 4,0.5,👮🏽‍♀️
+female police officer type 5,0.5,👮🏾‍♀️
+female police officer type 6,0.5,👮🏿‍♀️
+sleuth or spy,0.5,🕵
+sleuth or spy,0.5,🕵🏻
+sleuth or spy,0.5,🕵🏼
+sleuth or spy,0.5,🕵🏽
+sleuth or spy,0.5,🕵🏾
+sleuth or spy,0.5,🕵🏿
+male sleuth,0.5,🕵
+serious face with symbols covering mouth,0,🤬
+male sleuth type 1 2,0.5,🕵🏻
+male sleuth type 3,0.5,🕵🏼
+male sleuth type 4,0.5,🕵🏽
+male sleuth type 5,0.5,🕵🏾
+male sleuth type 6,0.5,🕵🏿
+female sleuth,0.5,🕵‍♀
+female sleuth type 1 2,0.5,🕵🏻‍♀
+female sleuth type 3,0.5,🕵🏼‍♀
+female sleuth type 4,0.5,🕵🏽‍♀
+female sleuth type 5,0.5,🕵🏾‍♀
+smiling face with horns,0.75,😈
+female sleuth type 6,0.5,🕵🏿‍♀
+guardsman,0.5,💂
+guardsman,0.5,💂🏻
+guardsman,0.5,💂🏼
+guardsman,0.5,💂🏽
+guardsman,0.5,💂🏾
+guardsman,0.5,💂🏿
+male guard,0.5,💂
+male guard type 1 2,0.5,💂🏻
+male guard type 3,0.5,💂🏼
+upside down face,0.5,🙃
+imp,0.25,😈
+male guard type 4,0.5,💂🏽
+male guard type 5,0.5,💂🏾
+male guard type 6,0.5,💂🏿
+female guard,0.5,💂‍♀
+female guard type 1 2,0.5,💂🏻‍♀
+female guard type 3,0.5,💂🏼‍♀
+female guard type 4,0.5,💂🏽‍♀
+female guard type 5,0.5,💂🏾‍♀
+female guard type 6,0.5,💂🏿‍♀
+construction worker,0.5,👷
+skull,0.25,💀
+construction worker,0.5,👷🏻
+construction worker,0.5,👷🏼
+construction worker,0.5,👷🏽
+construction worker,0.5,👷🏾
+construction worker,0.5,👷🏿
+male construction worker,0.5,👷‍♂️
+male construction worker type 1 2,0.5,👷🏻‍♂️
+male construction worker type 3,0.5,👷🏼‍♂️
+male construction worker type 4,0.5,👷🏽‍♂️
+male construction worker type 5,0.5,👷🏾‍♂️
+skull and crossbones,0,☠️
+male construction worker type 6,0.5,👷🏿‍♂️
+female construction worker,0.5,👷‍♀️
+female construction worker type 1 2,0.5,👷🏻‍♀️
+female construction worker type 3,0.5,👷🏼‍♀️
+female construction worker type 4,0.5,👷🏽‍♀️
+female construction worker type 5,0.5,👷🏾‍♀️
+female construction worker type 6,0.5,👷🏿‍♀️
+prince,0.5,🤴🏻
+prince,0.5,🤴🏼
+prince,0.5,🤴🏽
+pile of poo,0,💩
+prince,0.5,🤴🏾
+prince,0.5,🤴🏿
+prince,0.5,🤴‍♂️
+princess,0.5,👸🏻
+princess,0.5,👸🏼
+princess,0.5,👸🏽
+princess,0.5,👸🏾
+princess,0.5,👸🏿
+princess,0.5,👸‍♀️
+man with turban,0.5,👳‍♂
+clown face,0.5,🤡
+man with turban,0.5,👳🏻‍♂
+man with turban,0.5,👳🏼‍♂
+man with turban,0.5,👳🏽‍♂
+man with turban,0.5,👳🏾‍♂
+man with turban,0.5,👳🏿‍♂
+man wearing turban,0.5,👳‍♂
+man wearing turban type 1 2,0.5,👳🏻‍♂
+man wearing turban type 3,0.5,👳🏼‍♂
+man wearing turban type 4,0.5,👳🏽‍♂
+man wearing turban type 5,0.5,👳🏾‍♂
+japanese ogre,0.25,👹
+man wearing turban type 6,0.5,👳🏿‍♂
+woman wearing turban,0.5,👳‍♀
+woman wearing turban type 1 2,0.5,👳🏻‍♀
+woman wearing turban type 3,0.5,👳🏼‍♀
+woman wearing turban type 4,0.5,👳🏽‍♀
+woman wearing turban type 5,0.5,👳🏾‍♀
+woman wearing turban type 6,0.5,👳🏿‍♀
+man with gua pi mao,0.5,👲
+man with gua pi mao,0.5,👲🏻
+man with gua pi mao,0.5,👲🏼
+japanese goblin,0.25,👺
+man with gua pi mao,0.5,👲🏽
+man with gua pi mao,0.5,👲🏾
+man with gua pi mao,0.5,👲🏿
+person with headscarf,0.5,🧕
+person with headscarf,0.5,🧕🏻
+person with headscarf,0.5,🧕🏼
+person with headscarf,0.5,🧕🏽
+person with headscarf,0.5,🧕🏾
+person with headscarf,0.5,🧕🏿
+man in tuxedo,0.5,🤵‍♂
+ghost,0.25,👻
+man in tuxedo,0.75,🤵🏻‍♂
+man in tuxedo,0.75,🤵🏼‍♂
+man in tuxedo,0.75,🤵🏽‍♂
+man in tuxedo,0.75,🤵🏾‍♂
+man in tuxedo,0.75,🤵🏿‍♂
+bride with veil,0.75,👰‍♀
+bride with veil,0.75,👰🏻‍♀
+bride with veil,0.75,👰🏼‍♀
+bride with veil,0.75,👰🏽‍♀
+bride with veil,0.75,👰🏾‍♀
+extraterrestrial alien,0.25,👽
+bride with veil,0.75,👰🏿‍♀
+pregnant woman,0.75,🤰
+pregnant woman,0.75,🤰🏻
+pregnant woman,0.75,🤰🏼
+pregnant woman,0.75,🤰🏽
+pregnant woman,0.75,🤰🏾
+pregnant woman,0.75,🤰🏿
+breast feeding,0.5,🤱
+breast feeding,0.5,🤱🏻
+breast feeding,0.5,🤱🏼
+alien monster,0.25,👾
+breast feeding,0.5,🤱🏽
+breast feeding,0.5,🤱🏾
+breast feeding,0.5,🤱🏿
+baby angel,1,👼
+baby angel,1,👼🏻
+baby angel,1,👼🏼
+baby angel,1,👼🏽
+baby angel,1,👼🏾
+baby angel,1,👼🏿
+father christmas,1,🎅
