@@ -1,0 +1,4 @@
+🔹 Neural Network Performance Metrics (only emoji):
+✅ Mean Squared Error (MSE): 0.0326
+✅ Mean Absolute Error (MAE): 0.1406
+✅ R² Score: 0.406
